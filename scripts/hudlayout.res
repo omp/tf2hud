@@ -223,8 +223,8 @@
 		"enabled"	"1"
 		"xpos"		"10"
 		"ypos"		"r63"
-		"wide"		"500"
-		"tall"		"200"
+		"wide"		"160"
+		"tall"		"32"
 	}
 
 	CMainTargetID
