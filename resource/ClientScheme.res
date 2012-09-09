@@ -18,6 +18,39 @@ Scheme
 	//////////////////////// COLORS ///////////////////////////
 	Colors
 	{
+		// omp colours
+		"OmpText"			"255 255 255 255"
+		"OmpShadow"			"30 30 30 255"
+		
+		"OmpLightBG"		"30 30 30 125"
+		"OmpMediumBG"		"30 30 30 175"
+		"OmpDarkBG"			"30 30 30 225"
+		
+		"OmpHP"				"255 255 255 255"
+		"OmpHPBuff"			"125 225 30 255"
+		"OmpHPLow"			"255 200 30 255"
+		"OmpSpecHP"			"255 255 255 255"
+		"OmpSpecHPBuff"		"125 225 30 255"
+		"OmpSpecHPLow"		"255 200 30 255"
+		
+		"OmpAmmoClip"		"30 225 225 255"
+		"OmpAmmoReserve"	"255 30 255 255"
+		"OmpAmmoMetal"		"125 225 30 255"
+		"OmpDemoPipes"		"255 255 255 255"
+		
+		"OmpHealNumbers"	"30 225 30 255"
+		"OmpDamageNumbers"	"255 255 30 255"
+		
+		"OmpMeterLabel"		"125 125 125 255"
+		"OmpMedicCharge1"	"125 225 30 255"
+		"OmpMedicCharge2"	"125 225 30 255"
+		
+		"OmpChargeAmount"	"30 225 225 255"
+		"OmpRespawnTime"	"255 30 255 255"
+		
+		"OmpDeathNotice"	"30 30 30 225"
+		"OmpDeathNoticeLocal"	"225 225 225 225"
+		
 		// base colors
 		"Orange"			"178 82 22 255"
 		"OrangeDim"			"178 82 22 120"
@@ -415,64 +448,11 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana"
-				"tall"		"12"
-				"weight"	"900"
-				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
-				"yres"	"480 599"
+				"name"		"FuturaStd-Medium"
+				"tall"		"9"
+				"additive"	"0"
+				"antialias" "1"
 			}
-			"2"
-			{
-				"name"		"Verdana"
-				"tall"		"13"	[$WIN32]
-				"tall"		"20"	[$X360]
-				"weight"	"900"
-				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
-				"yres"	"600 767"
-			}
-			"3"
-			{
-				"name"		"Verdana"
-				"tall"		"14"
-				"weight"	"900"
-				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
-				"yres"	"768 1023"
-				"antialias"	"1"
-			}
-			"4"
-			{
-				"name"		"Verdana"
-				"tall"		"20"
-				"weight"	"900"
-				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
-				"yres"	"1024 1199"
-				"antialias"	"1"
-			}
-			"5"
-			{
-				"name"		"Verdana"
-				"tall"		"24"
-				"weight"	"900"
-				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
-				"yres"	"1200 6000"
-				"antialias"	"1"
-			}
-			"6"
-			{
-				"name"		"Verdana"
-				"tall"		"12"
-				"range" 		"0x0000 0x00FF"
-				"weight"		"900"
-			}
-			"7"
-			{
-				"name"		"Arial"
-				"tall"		"12"
-				"range" 		"0x0000 0x00FF"
-				"weight"		"800"
-			}
-
-			
 		}
 		"DefaultUnderline"
 		{
@@ -2330,6 +2310,168 @@ Scheme
 				"antialias" "1"
 			}
 		}
+		
+		// omp fonts
+		"Futura7"
+		{
+			"1"
+			{
+				"name"		"FuturaStd-Medium"
+				"tall"		"7"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+		"Futura8"
+		{
+			"1"
+			{
+				"name"		"FuturaStd-Medium"
+				"tall"		"8"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+		"Futura9"
+		{
+			"1"
+			{
+				"name"		"FuturaStd-Medium"
+				"tall"		"9"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+		"Futura12"
+		{
+			"1"
+			{
+				"name"		"FuturaStd-Medium"
+				"tall"		"12"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+		"Futura14"
+		{
+			"1"
+			{
+				"name"		"FuturaStd-Medium"
+				"tall"		"14"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+		"Futura16"
+		{
+			"1"
+			{
+				"name"		"FuturaStd-Medium"
+				"tall"		"16"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+		"Futura20"
+		{
+			"1"
+			{
+				"name"		"FuturaStd-Medium"
+				"tall"		"20"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+		"Futura24"
+		{
+			"1"
+			{
+				"name"		"FuturaStd-Medium"
+				"tall"		"24"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+		"Futura26"
+		{
+			"1"
+			{
+				"name"		"FuturaStd-Medium"
+				"tall"		"26"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+		"Futura32"
+		{
+			"1"
+			{
+				"name"		"FuturaStd-Medium"
+				"tall"		"32"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+		"Futura40"
+		{
+			"1"
+			{
+				"name"		"FuturaStd-Medium"
+				"tall"		"40"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+		"Futura60"
+		{
+			"1"
+			{
+				"name"		"FuturaStd-Medium"
+				"tall"		"60"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+		"FuturaHeavy13"
+		{
+			"1"
+			{
+				"name"		"FuturaStd-Heavy"
+				"tall"		"13"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+		"FuturaHeavy14"
+		{
+			"1"
+			{
+				"name"		"FuturaStd-Heavy"
+				"tall"		"14"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+		"FuturaHeavy20"
+		{
+			"1"
+			{
+				"name"		"FuturaStd-Heavy"
+				"tall"		"20"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+		"FuturaHeavy56"
+		{
+			"1"
+			{
+				"name"		"FuturaStd-Heavy"
+				"tall"		"56"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
 	}
 
 	//
@@ -3784,5 +3926,17 @@ Scheme
 				"range" "0x0000 0xFFFF"
 			}
 		}			
+		
+		// omp fonts
+		"7"
+		{
+			"font" "resource/FuturaStd-Medium.otf"
+			"name" "FuturaStd-Medium"
+		}
+		"8"
+		{
+			"font" "resource/FuturaStd-Heavy.otf"
+			"name" "FuturaStd-Heavy"
+		}
 	}
 }
