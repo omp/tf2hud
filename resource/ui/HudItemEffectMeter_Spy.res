@@ -91,6 +91,6 @@
 		"dulltext"				"0"
 		"brighttext"			"0"
 		"font"					"Futura20"
-		"fgcolor_override"		"OmpText"
+		"fgcolor"				"OmpText"
 	}
 }
