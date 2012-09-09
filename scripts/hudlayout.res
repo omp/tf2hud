@@ -73,9 +73,9 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"xpos"			"c-100"
-		"ypos"			"c90"
+		"ypos"			"c88"
 		"wide"			"332"
-		"tall"			"50"
+		"tall"			"52"
 	}
 	
 	HudDemomanCharge
@@ -84,10 +84,10 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"xpos"			"c-100"
-		"ypos"			"c90"
+		"ypos"			"c88"
 		"zpos"			"1"			// draw in front of ammo
 		"wide"			"200"
-		"tall"			"10"
+		"tall"			"6"
 		"MeterFG"		"White"
 		"MeterBG"		"Gray"
 	}	
