@@ -25,6 +25,7 @@ Scheme
 		"OmpLightBG"		"30 30 30 125"
 		"OmpMediumBG"		"30 30 30 175"
 		"OmpDarkBG"			"30 30 30 225"
+		"OmpWhiteBG"		"225 225 225 225"
 		
 		"OmpHP"				"255 255 255 255"
 		"OmpHPBuff"			"125 225 30 255"
@@ -47,9 +48,6 @@ Scheme
 		
 		"OmpChargeAmount"	"30 225 225 255"
 		"OmpRespawnTime"	"255 30 255 255"
-		
-		"OmpDeathNotice"	"30 30 30 225"
-		"OmpDeathNoticeLocal"	"225 225 225 225"
 		
 		// base colors
 		"Orange"			"178 82 22 255"

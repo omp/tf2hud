@@ -465,8 +465,8 @@
 		"IconColor"		"255 255 255 255"
 		"LocalPlayerColor"	"0 0 0 255"
 
-		"BaseBackgroundColor"	"OmpDeathNotice"
-		"LocalBackgroundColor"	"OmpDeathNoticeLocal"
+		"BaseBackgroundColor"	"OmpDarkBG"
+		"LocalBackgroundColor"	"OmpWhiteBG"
 	}
 
 	HudVehicle

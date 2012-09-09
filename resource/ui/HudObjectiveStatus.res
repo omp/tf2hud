@@ -15,7 +15,7 @@
 		"delta_item_start_y"	"20"
 		"delta_item_end_y"		"32"
 		"PositiveColor"			"30 225 30 255"
-		"NegativeColor"			"225 30 30 255"
+		"NegativeColor"			"255 30 30 255"
 		"delta_lifetime"		"1.5"
 		"delta_item_font"		"Futura16"
 		

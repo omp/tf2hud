@@ -113,7 +113,7 @@
 			"dulltext"		"0"
 			"brighttext"	"0"
 			"font"			"Futura24"
-			"fgcolor"		"OmpText"
+			"fgcolor"		"OmpDemoPipes"
 		}
 		"NumPipesLabelDropshadow"
 		{
