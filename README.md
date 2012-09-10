@@ -1,8 +1,39 @@
 tf2hud
 ======
 
-Custom Team Fortress 2 HUD.
+Team Fortress 2 HUD.
 
-DO NOT DOWNLOAD YET!
 
-To ensure cleanliness of code, I am rebasing this on the default HUD, meaning many elements will be missing or broken. I will remove this notice when it is ready.
+
+About
+-----
+
+This is a minimalistic TF2 HUD made for my personal use. Quite a few people asked me for it, so here it is. Please note that it's still a work in progress.
+
+I tried to achieve a balance between functionality and aesthetics while keeping it simple. As of now, I have no plans to customise any of the game menus, as these don't really affect gameplay and will increase the likelihood of an update breaking things. Furthermore, I simply do not care enough to change them.
+
+
+
+Help
+----
+
+Feel free to open an issue on GitHub if you are having an issue or need help changing something. I will do whatever I can to assist you or send you in the right direction. You can also contact me through other means if you know where to reach me.
+
+The default colours can be changed by editing them in the resource/ClientScheme.res file. The names should be fairly self-explanatory and any changes will require a restart of the game.
+
+
+
+Download
+--------
+
+There are no versioned releases, but you can get the latest code here at any time. GitHub allows you to download a ZIP archive of any revision.
+
+
+
+Credits
+-------
+
+* broesel -- visual inspiration.
+* ell -- occasional reference.
+* Garm3n -- occasional reference.
+* rads -- video tutorials.
