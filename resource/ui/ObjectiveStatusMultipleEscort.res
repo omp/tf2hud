@@ -23,8 +23,8 @@
 		"tall"				"200"
 		"visible"			"1"
 		"enabled"			"1"
-		"progress_xpos"		"79"
-		"progress_wide"		"270"
+		"progress_xpos"		"93"
+		"progress_wide"		"214"
 		
 		"if_blue_is_top"
 		{
@@ -43,8 +43,8 @@
 		"tall"				"200"
 		"visible"			"1"
 		"enabled"			"1"
-		"progress_xpos"		"79"
-		"progress_wide"		"270"
+		"progress_xpos"		"93"
+		"progress_wide"		"214"
 		
 		"if_red_is_top"
 		{

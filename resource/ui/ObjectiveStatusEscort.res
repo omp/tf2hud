@@ -11,8 +11,8 @@
 		"tall"				"150"
 		"visible"			"1"
 		"enabled"			"1"
-		"progress_xpos"		"79"
-		"progress_wide"		"270"
+		"progress_xpos"		"93"
+		"progress_wide"		"214"
 		
 		"if_multiple_trains"
 		{
@@ -25,10 +25,10 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"LevelBar"	
-		"xpos"			"73"
+		"xpos"			"100"
 		"ypos"			"123"
 		"zpos"			"0"
-		"wide"			"254"
+		"wide"			"200"
 		"tall"			"4"
 		"visible"		"1"
 		"enabled"		"1"
@@ -56,10 +56,10 @@
 	{
 		"ControlName"	"CTFHudEscortProgressBar"
 		"fieldName"		"ProgressBar"	
-		"xpos"			"73"
+		"xpos"			"100"
 		"ypos"			"123"
 		"zpos"			"4"
-		"wide"			"254"
+		"wide"			"200"
 		"tall"			"4"
 		"visible"		"0"
 		"enabled"		"1"
@@ -78,7 +78,7 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"HomeCPIcon"	
-		"xpos"			"64"		
+		"xpos"			"91"		
 		"ypos"			"116"
 		"zpos"			"1"
 		"wide"			"18"
@@ -109,7 +109,7 @@
 		
 		"if_multiple_trains"
 		{
-			"xpos"			"59"
+			"xpos"			"86"
 			"zpos"			"5"
 			"wide"			"14"
 			"tall"			"14"
@@ -141,7 +141,7 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"SimpleControlPointTemplate"	
-		"xpos"			"65"		
+		"xpos"			"92"		
 		"ypos"			"116"		
 		"zpos"			"1"
 		"wide"			"18"		
@@ -157,7 +157,7 @@
 												
 		"if_multiple_trains"
 		{
-			"xpos"			"61"
+			"xpos"			"88"
 			"ypos"			"114"
 			"zpos"			"5"	
 			"wide"			"12"
@@ -296,11 +296,11 @@
 		{
 			"ControlName"	"ImagePanel"
 			"fieldName"		"EscortItemImageAlert"	
-			"xpos"			"-4"
-			"ypos"			"38"
+			"xpos"			"0"
+			"ypos"			"41"
 			"zpos"			"0"
-			"wide"			"60"
-			"tall"			"30"
+			"wide"			"52"
+			"tall"			"26"
 			"autoResize"	"0"
 			"pinCorner"		"0"
 			"visible"		"0"
@@ -312,8 +312,8 @@
 			
 			"if_multiple_trains_bottom"
 			{
-				"xpos"			"-5"
-				"ypos"			"75"
+				"xpos"			"0"
+				"ypos"			"76"
 			}
 		}
 		

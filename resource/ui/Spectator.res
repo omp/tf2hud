@@ -69,7 +69,7 @@
 		"labelText"		"#game_respawntime_in_secs"
 		"textAlignment"		"center"
 		"font"			"Futura16"
-		"fgcolor"		"OmpText"
+		"fgcolor_override"		"OmpText"
 	}
 	"BuyBackLabel"
 	{
@@ -86,7 +86,7 @@
 		"labelText"		""
 		"textAlignment"		"center"
 		"font"			"Futura16"
-		"fgcolor"		"OmpText"
+		"fgcolor_override"		"OmpText"
 		"wrap"			"1"
 		"centerwrap"	"1"
 	}
