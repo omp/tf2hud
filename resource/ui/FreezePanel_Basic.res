@@ -162,10 +162,10 @@
 		"ControlName"	"CItemModelPanel"
 		"fieldName"		"itempanel"
 		"xpos"			"r210"
-		"ypos"			"c17"
+		"ypos"			"c16"
 		"zpos"			"1"
 		"wide"			"200"
-		"tall"			"1"
+		"tall"			"1000"
 		"visible"		"0"
 		"bgcolor_override"		"255 255 255 0"
 		"PaintBackgroundType"	"0"
@@ -328,10 +328,10 @@
 			"fieldName"		"FreezeLabelKiller"
 			"font"			"Futura9"
 			"fgcolor"		"OmpText"
-			"xpos"			"34"
+			"xpos"			"48"
 			"ypos"			"9"
 			"zpos"			"1"
-			"wide"			"164"
+			"wide"			"150"
 			"tall"			"14"
 			"autoResize"	"0"
 			"pinCorner"		"0"
@@ -345,13 +345,13 @@
 		{
 			"ControlName"		"CAvatarImagePanel"
 			"fieldName"		"AvatarImage"
-			"xpos"			"34" // omp -- Seems this has to be same as FreezeLabelKiller value.
+			"xpos"			"32"
 			"ypos"			"9"
 			"zpos"			"0"
-			"wide"			"0" // 14
-			"tall"			"0" // 14
-			"visible"		"0" // 1
-			"enabled"		"0" // 1
+			"wide"			"14"
+			"tall"			"14"
+			"visible"		"1"
+			"enabled"		"1"
 			"image"			""
 			"scaleImage"		"1"	
 			"color_outline"		"52 48 45 255"
