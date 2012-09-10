@@ -21,6 +21,8 @@ Screenshots
 * http://i.imgur.com/CEnVn.jpg -- low health.
 * http://i.imgur.com/5Bget.jpg -- buffed health, medic target id.
 * http://i.imgur.com/ed1YQ.jpg -- scoreboard.
+* http://i.imgur.com/M2qP5.jpg -- disguise status, tournament setup.
+* http://i.imgur.com/hGVWW.jpg -- tournament spectator, inspect panel, kill feed.
 
 
 
