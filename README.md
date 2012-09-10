@@ -14,6 +14,16 @@ I tried to achieve a balance between functionality and aesthetics while keeping 
 
 
 
+Screenshots
+-----------
+
+* http://i.imgur.com/1ihbg.jpg -- target id, charge meter.
+* http://i.imgur.com/CEnVn.jpg -- low health.
+* http://i.imgur.com/5Bget.jpg -- buffed health, medic target id.
+* http://i.imgur.com/ed1YQ.jpg -- scoreboard.
+
+
+
 Help
 ----
 
