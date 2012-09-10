@@ -68,7 +68,8 @@
 		
 		if_mvm
 		{
-			"visible"		"0"
+			"xpos"			"100"
+			"wide"			"560"
 		}
 	}
 	"MainBG"
@@ -514,7 +515,7 @@
 		
 		if_mvm
 		{
-			"visible"		"0"
+			"labelText"	"MvM"
 		}
 	}
 
