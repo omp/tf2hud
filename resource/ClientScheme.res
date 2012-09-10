@@ -25,6 +25,7 @@ Scheme
 		"OmpLightBG"		"30 30 30 125"
 		"OmpMediumBG"		"30 30 30 175"
 		"OmpDarkBG"			"30 30 30 225"
+		"OmpDarkerBG"		"30 30 30 250"
 		"OmpDarkestBG"		"30 30 30 255"
 		"OmpWhiteBG"		"225 225 225 225"
 		

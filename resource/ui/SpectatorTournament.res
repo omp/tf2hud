@@ -44,7 +44,7 @@
 				"pinCorner"		"0"
 				"visible"		"1"
 				"enabled"		"1"
-				"fillcolor"		"OmpDarkBG"
+				"fillcolor"		"OmpDarkerBG"
 			}
 			
 			"playername"
