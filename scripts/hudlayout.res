@@ -1305,7 +1305,7 @@
 	{
 		"controlName" "CExLabel"
 		"fieldName" "OmpCrosshair2"
-		"font" "Crosshairs14"
+		"font" "CrosshairsSharp15"
 		"fgcolor" "125 225 30 255"
 		"labelText" "2"
 		"xpos" "c-101"

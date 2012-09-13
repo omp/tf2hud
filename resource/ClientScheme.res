@@ -2652,6 +2652,116 @@ Scheme
 				"antialias" "1"
 			}
 		}
+		"CrosshairsSharp10"
+		{
+			"1"
+			{
+				"name"		"Crosshairs Regular"
+				"tall"		"10"
+				"additive"	"0"
+				"antialias" "0"
+			}
+		}
+		"CrosshairsSharp11"
+		{
+			"1"
+			{
+				"name"		"Crosshairs Regular"
+				"tall"		"11"
+				"additive"	"0"
+				"antialias" "0"
+			}
+		}
+		"CrosshairsSharp12"
+		{
+			"1"
+			{
+				"name"		"Crosshairs Regular"
+				"tall"		"12"
+				"additive"	"0"
+				"antialias" "0"
+			}
+		}
+		"CrosshairsSharp13"
+		{
+			"1"
+			{
+				"name"		"Crosshairs Regular"
+				"tall"		"13"
+				"additive"	"0"
+				"antialias" "0"
+			}
+		}
+		"CrosshairsSharp14"
+		{
+			"1"
+			{
+				"name"		"Crosshairs Regular"
+				"tall"		"14"
+				"additive"	"0"
+				"antialias" "0"
+			}
+		}
+		"CrosshairsSharp15"
+		{
+			"1"
+			{
+				"name"		"Crosshairs Regular"
+				"tall"		"15"
+				"additive"	"0"
+				"antialias" "0"
+			}
+		}
+		"CrosshairsSharp16"
+		{
+			"1"
+			{
+				"name"		"Crosshairs Regular"
+				"tall"		"16"
+				"additive"	"0"
+				"antialias" "0"
+			}
+		}
+		"CrosshairsSharp17"
+		{
+			"1"
+			{
+				"name"		"Crosshairs Regular"
+				"tall"		"17"
+				"additive"	"0"
+				"antialias" "0"
+			}
+		}
+		"CrosshairsSharp18"
+		{
+			"1"
+			{
+				"name"		"Crosshairs Regular"
+				"tall"		"18"
+				"additive"	"0"
+				"antialias" "0"
+			}
+		}
+		"CrosshairsSharp19"
+		{
+			"1"
+			{
+				"name"		"Crosshairs Regular"
+				"tall"		"19"
+				"additive"	"0"
+				"antialias" "0"
+			}
+		}
+		"CrosshairsSharp20"
+		{
+			"1"
+			{
+				"name"		"Crosshairs Regular"
+				"tall"		"20"
+				"additive"	"0"
+				"antialias" "0"
+			}
+		}
 	}
 
 	//
