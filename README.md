@@ -45,6 +45,7 @@ There are no versioned releases, but you can get the latest code here at any tim
 Credits
 -------
 
+* Fog -- crosshair pack.
 * broesel -- visual inspiration.
 * ell -- occasional reference.
 * Garm3n -- occasional reference.
