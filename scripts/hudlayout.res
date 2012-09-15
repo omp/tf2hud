@@ -960,10 +960,10 @@
 		"fieldName"		"HudDemomanPipes"
 		"visible"		"1"
 		"enabled"		"1"
-		"xpos"			"c-75"
-		"ypos"			"c70"
-		"wide"			"150"
-		"tall"			"18"
+		"xpos"			"c-100"
+		"ypos"			"c68" // omp -- 2 before due to low-res grid.
+		"wide"			"200"
+		"tall"			"26"
 	}	
 
 	HudTeamGoal
