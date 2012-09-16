@@ -40,6 +40,9 @@ Scheme
 		"OmpAmmoReserve"	"255 30 255 255"
 		"OmpAmmoMetal"		"125 225 30 255"
 		"OmpDemoPipes"		"255 255 255 255"
+
+		"OmpLowAmmo1"		"255 0 0 255"
+		"OmpLowAmmo2"		"200 0 0 255"
 		
 		"OmpHealNumbers"	"30 225 30 255"
 		"OmpDamageNumbers"	"255 255 30 255"
