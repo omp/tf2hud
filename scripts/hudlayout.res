@@ -802,9 +802,9 @@
 		"visible"				"1"
 		"enabled"				"1"
 		"xpos"					"c-120"
-		"ypos"					"r140"
+		"ypos"					"r132"
 		"wide"					"240"
-		"tall"					"140"
+		"tall"					"132"
 	}
 
 	ArenaWinPanel
