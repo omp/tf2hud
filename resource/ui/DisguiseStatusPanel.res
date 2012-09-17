@@ -60,7 +60,7 @@
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"DisguiseNameLabel"
-		"font"			"Futura9"
+		"font"			"Futura11"
 		"fgcolor"		"OmpText"
 		"xpos"			"34"
 		"ypos"			"9"
@@ -81,7 +81,7 @@
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"WeaponNameLabel"
-		"font"			"Futura7"
+		"font"			"Futura9"
 		"fgcolor"		"OmpText"
 		"xpos"			"34"
 		"ypos"			"23"

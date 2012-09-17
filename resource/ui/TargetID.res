@@ -91,7 +91,7 @@
 	{	
 		"ControlName"		"CExLabel"
 		"fieldName"		"TargetNameLabel"
-		"font"			"Futura9"
+		"font"			"Futura11"
 		"fgcolor"		"OmpText"
 		"xpos"			"34"
 		"ypos"			"13"
@@ -111,7 +111,7 @@
 	{	
 		"ControlName"		"CExLabel"
 		"fieldName"		"TargetDataLabel"
-		"font"			"Futura7"
+		"font"			"Futura9"
 		"fgcolor"		"OmpText"
 		"xpos"			"34"
 		"ypos"			"27"

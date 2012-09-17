@@ -314,7 +314,7 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"ServerLabel"
-		"font"			"Futura9"
+		"font"			"Futura11"
 		"fgcolor"		"OmpText"
 		"labelText"		"%server%"
 		"textAlignment"		"west"
@@ -334,7 +334,7 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"ServerTimeLeft"
-		"font"			"Futura9"
+		"font"			"Futura11"
 		"fgcolor"		"OmpText"
 		"labelText"		"%servertimeleft%"
 		"textAlignment"		"east"
@@ -429,7 +429,7 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"Spectators"
-		"font"			"Futura9"
+		"font"			"Futura11"
 		"fgcolor"		"OmpText"
 		"labelText"		"%spectators%"
 		"textAlignment"		"west"
@@ -450,7 +450,7 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"SpectatorsInQueue"
-		"font"			"Futura9"
+		"font"			"Futura11"
 		"fgcolor"		"OmpText"
 		"labelText"		"%waitingtoplay%"
 		"textAlignment"		"west"

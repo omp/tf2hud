@@ -51,7 +51,7 @@
 			{
 				"ControlName"	"CExLabel"
 				"fieldName"		"playername"
-				"font"			"Futura9"
+				"font"			"Futura11"
 				"xpos"			"16"
 				"ypos"			"0"
 				"zpos"			"5"

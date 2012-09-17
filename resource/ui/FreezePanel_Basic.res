@@ -287,7 +287,7 @@
 		{	
 			"ControlName"		"CExLabel"
 			"fieldName"		"FreezeLabel"
-			"font"			"Futura7"
+			"font"			"Futura9"
 			"fgcolor"		"OmpText"
 			"xpos"			"32"
 			"ypos"			"0"
@@ -326,7 +326,7 @@
 		{	
 			"ControlName"	"CExLabel"
 			"fieldName"		"FreezeLabelKiller"
-			"font"			"Futura9"
+			"font"			"Futura11"
 			"fgcolor"		"OmpText"
 			"xpos"			"48"
 			"ypos"			"9"
