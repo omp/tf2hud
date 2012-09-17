@@ -398,6 +398,7 @@
 		{
 			"xpos"		"c-44"
 			"ypos"		"r96"
+		}
 	}
 			
 	"RedFlag"
