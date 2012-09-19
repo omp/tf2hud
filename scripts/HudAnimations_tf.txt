@@ -750,8 +750,14 @@ event NotificationsPresentBlinkStop
 
 event DamagedPlayer
 {
-	//Animate	OmpCrosshairPlus	FgColor	"255 0 0 255"	Accel 0.0 0.0
-	//Animate	OmpCrosshairPlus	FgColor	"255 0 255 255"	Accel 0.2 0.0
+	//Animate	OmpCrosshairPlus		FgColor "255 0 0 255"		Accel 0.0 0.0
+	//Animate	OmpCrosshairPlus		FgColor "255 0 255 255"		Accel 0.2 0.0
+
+	//Animate	OmpCrosshairPlusSmall	FgColor "255 0 0 255"		Accel 0.0 0.0
+	//Animate	OmpCrosshairPlusSmall	FgColor "255 0 255 255"		Accel 0.2 0.0
+
+	//Animate	OmpCrosshairCircle		FgColor "255 0 0 255"		Accel 0.0 0.0
+	//Animate	OmpCrosshairCircle		FgColor "225 225 225 30"	Accel 0.2 0.0
 }
 
 //===========================================
