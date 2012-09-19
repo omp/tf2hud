@@ -1283,26 +1283,27 @@
 		"wide"			"320"
 		"tall"			"150"
 	}
-	
-	"OmpCrosshair"
+
+	"OmpCrosshairPlus"
 	{
 		"controlName" "CExLabel"
-		"fieldName" "OmpCrosshair"
-		"font" "Crosshairs40"
-		"fgcolor" "225 225 225 30"
-		"labelText" "9"
+		"fieldName" "OmpCrosshairPlus"
+		"font" "SymbolSharp24"
+		"fgcolor" "255 0 255 255"
+		"labelText" "+"
 		"xpos" "c-100"
-		"ypos" "c-96"
-		"wide" "201"
+		"ypos" "c-103"
+		"wide" "200"
 		"tall" "200"
 		"visible" "0"
 		"enabled" "0"
 		"textAlignment" "center"
 	}
-	"OmpCrosshair2"
+
+	"OmpCrosshairPlusSmall"
 	{
 		"controlName" "CExLabel"
-		"fieldName" "OmpCrosshair2"
+		"fieldName" "OmpCrosshairPlusSmall"
 		"font" "CrosshairsSharp15"
 		"fgcolor" "255 0 255 255"
 		"labelText" "2"
@@ -1310,6 +1311,22 @@
 		"ypos" "c-100"
 		"wide" "200"
 		"tall" "202"
+		"visible" "0"
+		"enabled" "0"
+		"textAlignment" "center"
+	}
+
+	"OmpCrosshairCircle"
+	{
+		"controlName" "CExLabel"
+		"fieldName" "OmpCrosshairCircle"
+		"font" "Crosshairs40"
+		"fgcolor" "225 225 225 30"
+		"labelText" "9"
+		"xpos" "c-100"
+		"ypos" "c-96"
+		"wide" "201"
+		"tall" "200"
 		"visible" "0"
 		"enabled" "0"
 		"textAlignment" "center"

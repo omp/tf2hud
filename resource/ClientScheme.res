@@ -2777,6 +2777,16 @@ Scheme
 				"antialias" "0"
 			}
 		}
+		"SymbolSharp24"
+		{
+			"1"
+			{
+				"name"		"Symbol"
+				"tall"		"24"
+				"additive"	"0"
+				"antialias" "0"
+			}
+		}
 	}
 
 	//
@@ -4247,6 +4257,11 @@ Scheme
 		{
 			"font" "resource/Crosshairs.otf"
 			"name" "Crosshairs Regular"
+		}
+		"10"
+		{
+			"font" "resource/Symbol.ttf"
+			"name" "Symbol"
 		}
 	}
 }
