@@ -707,6 +707,7 @@
 				"visible"		"1"
 				"enabled"		"1"
 				"font"			"Futura24"
+				"fgcolor"		"OmpText"
 			}
 		}
 
@@ -786,6 +787,7 @@
 				"visible"		"1"
 				"enabled"		"1"
 				"font"			"Futura24"
+				"fgcolor"		"OmpText"
 			}
 		}
 	}
