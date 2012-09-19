@@ -136,6 +136,24 @@
 				"TextColor"					"HudOffWhite"
 			}
 			
+			"HealthIconBG"
+			{
+				"ControlName"	"CExLabel"
+				"fieldName"		"HealthIconBG"
+				"font"			"BlocksSharp64"
+				"xpos"			"104"
+				"ypos"			"0"
+				"zpos"			"2"
+				"wide"			"24"
+				"tall"			"14"
+				"autoResize"	"0"
+				"pinCorner"		"0"
+				"visible"		"1"
+				"labelText"		"0"
+				"textAlignment"	"east"
+				"fgcolor"		"30 30 30 255"
+			}
+			
 			"ReadyBG"
 			{
 				"ControlName"		"ScalableImagePanel"
@@ -206,6 +224,24 @@
 				{
 					"ypos"			"17"
 				}
+			}
+
+			"respawntimecover"
+			{
+				"ControlName"	"CExLabel"
+				"fieldName"		"respawntimecover"
+				"font"			"BlocksSharp64"
+				"xpos"			"104"
+				"ypos"			"0"
+				"zpos"			"5"
+				"wide"			"24"
+				"tall"			"14"
+				"autoResize"	"0"
+				"pinCorner"		"0"
+				"visible"		"1"
+				"labelText"		"%respawntime%"
+				"textAlignment"	"east"
+				"fgcolor"		"30 30 30 255"
 			}
 			
 			"chargeamount"

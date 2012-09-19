@@ -2787,6 +2787,16 @@ Scheme
 				"antialias" "0"
 			}
 		}
+		"BlocksSharp64"
+		{
+			"1"
+			{
+				"name"		"Blocks"
+				"tall"		"64"
+				"additive"	"0"
+				"antialias" "0"
+			}
+		}
 	}
 
 	//
@@ -4262,6 +4272,11 @@ Scheme
 		{
 			"font" "resource/Symbol.ttf"
 			"name" "Symbol"
+		}
+		"11"
+		{
+			"font" "resource/Blocks.ttf"
+			"name" "Blocks"
 		}
 	}
 }
