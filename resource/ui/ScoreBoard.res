@@ -714,8 +714,8 @@
 		{
 			"ControlName"		"EditablePanel"
 			"fieldName"		"OpponentData"
-			"xpos"			"176"
-			"ypos"			"0"
+			"xpos"			"0"
+			"ypos"			"176"
 			"wide"			"80"
 			"tall"			"50"
 			"autoResize"	"0"
