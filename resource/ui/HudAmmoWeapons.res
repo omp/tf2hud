@@ -52,6 +52,12 @@
 		"textAlignment"	"east"	
 		"labelText"		"%Ammo%"
 		
+		"font_minmode"	"FuturaHeavy36"
+		"xpos_minmode"	"0"
+		"ypos_minmode"	"0"
+		"wide_minmode"	"44"
+		"tall_minmode"	"25"
+		
 	}		
 	"AmmoInClipShadow"
 	{
@@ -69,6 +75,11 @@
 		"textAlignment"	"east"	
 		"labelText"		"%Ammo%"
 		
+		"font_minmode"	"FuturaHeavy36"
+		"xpos_minmode"	"1"
+		"ypos_minmode"	"1"
+		"wide_minmode"	"44"
+		"tall_minmode"	"25"
 	}						
 	"AmmoInReserve"
 	{
@@ -85,6 +96,12 @@
 		"enabled"		"1"
 		"textAlignment"	"west"		
 		"labelText"		"%AmmoInReserve%"
+		
+		"font_minmode"	"Futura24"
+		"xpos_minmode"	"47"
+		"ypos_minmode"	"0"
+		"wide_minmode"	"44"
+		"tall_minmode"	"25"
 	}		
 	"AmmoInReserveShadow"
 	{
@@ -101,6 +118,12 @@
 		"enabled"		"1"
 		"textAlignment"	"west"		
 		"labelText"		"%AmmoInReserve%"
+		
+		"font_minmode"	"Futura24"
+		"xpos_minmode"	"48"
+		"ypos_minmode"	"1"
+		"wide_minmode"	"44"
+		"tall_minmode"	"25"
 	}									
 	"AmmoNoClip"
 	{
@@ -118,6 +141,11 @@
 		"textAlignment"	"center"		
 		"labelText"		"%Ammo%"
 		
+		"font_minmode"	"FuturaHeavy36"
+		"xpos_minmode"	"0"
+		"ypos_minmode"	"0"
+		"wide_minmode"	"91"
+		"tall_minmode"	"25"
 	}	
 	"AmmoNoClipShadow"
 	{
@@ -135,5 +163,10 @@
 		"textAlignment"	"center"		
 		"labelText"		"%Ammo%"
 		
+		"font_minmode"	"FuturaHeavy36"
+		"xpos_minmode"	"1"
+		"ypos_minmode"	"1"
+		"wide_minmode"	"91"
+		"tall_minmode"	"25"
 	}									
 }

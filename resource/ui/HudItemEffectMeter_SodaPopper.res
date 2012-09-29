@@ -53,6 +53,9 @@
 		"brighttext"			"0"
 		"font"					"Futura7"
 		"fgcolor_override"		"OmpMeterLabel"
+		
+		"xpos_minmode"			"50"
+		"wide_minmode"			"100"
 	}
 
 	"ItemEffectMeter"
@@ -74,5 +77,8 @@
 		"brighttext"			"0"
 		"bgcolor_override"		"OmpDarkBG"
 		"fgcolor_override"		"255 255 255 255"
+		
+		"xpos_minmode"			"50"
+		"wide_minmode"			"100"
 	}					
 }

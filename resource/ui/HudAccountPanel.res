@@ -52,11 +52,11 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"AccountValue"
-		"xpos"			"0"
+		"xpos"			"25"
 		"ypos"			"0"
 		"zpos"			"2"
-		"wide"			"131"
-		"tall"			"23"
+		"wide"			"149"
+		"tall"			"17"
 		"autoResize"	"1"
 		"pinCorner"		"2"
 		"visible"		"1"
@@ -66,19 +66,22 @@
 		"textAlignment"	"center"
 		"dulltext"		"0"
 		"brighttext"	"0"
-		"font"			"Futura32"
+		"font"			"Futura24"
 		"fgcolor"		"OmpAmmoMetal"
+		
+		"xpos_minmode"	"50"
+		"wide_minmode"	"99"
 	}
 	
 	"AccountValueShadow"
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"AccountValueShadow"
-		"xpos"			"1"
+		"xpos"			"26"
 		"ypos"			"1"
 		"zpos"			"2"
-		"wide"			"131"
-		"tall"			"23"
+		"wide"			"149"
+		"tall"			"17"
 		"autoResize"	"1"
 		"pinCorner"		"2"
 		"visible"		"1"
@@ -88,7 +91,10 @@
 		"textAlignment"	"center"
 		"dulltext"		"0"
 		"brighttext"	"0"
-		"font"			"Futura32"
+		"font"			"Futura24"
 		"fgcolor"		"OmpShadow"
+		
+		"xpos_minmode"	"51"
+		"wide_minmode"	"99"
 	}
 }

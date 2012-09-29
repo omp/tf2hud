@@ -42,6 +42,9 @@
 		"brighttext"			"0"
 		"font"					"Futura7"
 		"fgcolor_override"		"OmpMeterLabel"
+		
+		"xpos_minmode"			"50"
+		"wide_minmode"			"100"
 	}
 
 	"ChargeMeter"
@@ -63,6 +66,9 @@
 		"brighttext"			"0"
 		"bgcolor_override"		"OmpDarkBG"
 		"fgcolor_override"		"255 255 255 255"
+		
+		"xpos_minmode"			"50"
+		"wide_minmode"			"100"
 	}				
 		
 	"PipesPresentPanel"
@@ -75,6 +81,9 @@
 		"wide"			"150"
 		"tall"			"18"
 		"visible"		"1"
+		
+		"xpos_minmode"			"50"
+		"wide_minmode"			"100"
 		
 		"PipeIcon"
 		{
@@ -114,6 +123,8 @@
 			"brighttext"	"0"
 			"font"			"Futura24"
 			"fgcolor"		"OmpDemoPipes"
+			
+			"wide_minmode"			"99"
 		}
 		"NumPipesLabelDropshadow"
 		{
@@ -135,6 +146,8 @@
 			"brighttext"	"0"
 			"font"			"Futura24"
 			"fgcolor"		"OmpShadow"
+			
+			"wide_minmode"			"99"
 		}		
 	}
 	

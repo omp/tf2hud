@@ -15,6 +15,12 @@
 		"HealthBonusPosAdj"	"35"
 		"HealthDeathWarning"	"0.49"
 		"HealthDeathWarningColor"	"HUDDeathWarning"
+		
+		"xpos_minmode"	"c-142"
+		"ypos_minmode"	"c37"
+		"wide_minmode"	"92"
+		"tall_minmode"	"92"
+		"HealthBonusPosAdj_minmode"	"20"
 	}	
 	"PlayerStatusHealthImage"
 	{
@@ -56,6 +62,11 @@
 		"enabled"		"1"
 		"image"			"../hud/health_over_bg"
 		"scaleImage"	"1"	
+		
+		"xpos_minmode"	"20"
+		"ypos_minmode"	"20"
+		"wide_minmode"	"52"
+		"tall_minmode"	"52"
 	}
 	"PlayerStatusHealthValue"
 	{
@@ -72,6 +83,12 @@
 		"textAlignment"	"center"	
 		"font"			"FuturaHeavy56"
 		"fgcolor"		"OmpHP"
+
+		"xpos_minmode"	"0"
+		"ypos_minmode"	"33"
+		"wide_minmode"	"91"
+		"tall_minmode"	"25"
+		"font_minmode"	"FuturaHeavy36"
 	}								
 	"PlayerStatusHealthValueShadow"
 	{
@@ -88,6 +105,12 @@
 		"textAlignment"	"center"	
 		"font"			"FuturaHeavy56"
 		"fgcolor"		"OmpShadow"
+		
+		"xpos_minmode"	"1"
+		"ypos_minmode"	"34"
+		"wide_minmode"	"91"
+		"tall_minmode"	"25"
+		"font_minmode"	"FuturaHeavy36"
 	}
 	"PlayerStatusBleedImage"
 	{
@@ -103,6 +126,11 @@
 		"scaleImage"	"1"	
 		"image"			"../vgui/bleed_drop"
 		"fgcolor"		"TanDark"
+		
+		"xpos_minmode"	"34"
+		"ypos_minmode"	"60"
+		"wide_minmode"	"24"
+		"tall_minmode"	"24"
 	}		
 	"PlayerStatusMilkImage"
 	{
@@ -118,6 +146,11 @@
 		"scaleImage"	"1"	
 		"image"			"../vgui/bleed_drop"
 		"fgcolor"		"TanDark"
+		
+		"xpos_minmode"	"34"
+		"ypos_minmode"	"60"
+		"wide_minmode"	"24"
+		"tall_minmode"	"24"
 	}
 	"PlayerStatusMarkedForDeathImage"
 	{
@@ -133,6 +166,11 @@
 		"scaleImage"	"1"	
 		"image"			"../vgui/marked_for_death"
 		"fgcolor"		"TanDark"
+		
+		"xpos_minmode"	"34"
+		"ypos_minmode"	"60"
+		"wide_minmode"	"24"
+		"tall_minmode"	"24"
 	}
 	"PlayerStatusMarkedForDeathSilentImage"
 	{
@@ -148,5 +186,10 @@
 		"scaleImage"	"1"	
 		"image"			"../vgui/marked_for_death"
 		"fgcolor"		"TanDark"
+		
+		"xpos_minmode"	"34"
+		"ypos_minmode"	"60"
+		"wide_minmode"	"23"
+		"tall_minmode"	"23"
 	}
 }

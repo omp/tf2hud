@@ -20,6 +20,11 @@
 		"ypos"	"c100"
 		"wide"	"132"
 		"tall"	"40"
+		
+		"xpos_minmode"	"c50"
+		"ypos_minmode"	"c70"
+		"wide_minmode"	"92"
+		"tall_minmode"	"26"
 	}
 	
 	HudObjectiveStatus
@@ -76,6 +81,11 @@
 		"ypos"			"c88"
 		"wide"			"332"
 		"tall"			"52"
+		
+		"xpos_minmode"	"c-100"
+		"ypos_minmode"	"c68" // omp -- 2 before due to low-res grid.
+		"wide_minmode"	"242"
+		"tall_minmode"	"28"
 	}
 	
 	HudDemomanCharge
@@ -181,10 +191,10 @@
 	CHudAccountPanel
 	{
 		"fieldName"				"CHudAccountPanel"
-		"xpos"					"c100"
+		"xpos"					"c-100"
 		"ypos"					"c70"
-		"wide"					"132"
-		"tall"  				"24"
+		"wide"					"200"
+		"tall"  				"18"
 		"visible" 				"1"
 		"enabled" 				"1"
 		"PaintBackgroundType"	"2"
@@ -263,6 +273,7 @@
 		"enabled" 	"1"
 		"xpos"		"c-100"
 		"ypos"		"c100"
+		"zpos"		"1" // omp -- place above health cross.
 		"wide"	 	"200"
 		"tall"	 	"40"
 		"priority"	"35"
