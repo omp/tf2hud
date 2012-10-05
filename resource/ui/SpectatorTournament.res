@@ -11,11 +11,11 @@
 		"enabled"		"1"
 				
 		"team1_player_base_offset_x"		"0"
-		"team1_player_base_y"				"151"
+		"team1_player_base_y"				"122"
 		"team1_player_delta_x"				"0"
 		"team1_player_delta_y"				"-14"
 		"team2_player_base_offset_x"		"0"
-		"team2_player_base_y"				"172"
+		"team2_player_base_y"				"146"
 		"team2_player_delta_x"				"0"
 		"team2_player_delta_y"				"14"
 		
