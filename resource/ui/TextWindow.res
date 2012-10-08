@@ -101,10 +101,10 @@
 	{
 		"ControlName"		"CExButton"
 		"fieldName"		"ok"
-		"xpos"			"c-170"
+		"xpos"			"c-50"
 		"ypos"			"c94"
 		"zpos"			"6"
-		"wide"			"340"
+		"wide"			"100"
 		"tall"			"16"
 		"autoResize"	"0"
 		"pinCorner"		"2"
