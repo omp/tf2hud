@@ -163,8 +163,8 @@
 	{
 		"ControlName"		"EditablePanel"
 		"fieldName"		"MoveableSubPanel"
-		"xpos"			"0"
-		"ypos"			"0"
+		"xpos"			"9999" // omp -- fix glitch where this is visible in spectator view.
+		"ypos"			"9999"
 		"zpos"			"0"
 		"wide"			"32"
 		"tall"			"36"
