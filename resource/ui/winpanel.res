@@ -268,7 +268,7 @@
 	{	
 		"ControlName"		"CExLabel"
 		"fieldName"		"AdvancingTeamLabel"
-		"font"			"Futura14"
+		"font"			"Futura11"
 		"fgcolor"		"OmpText"
 		"xpos"			"10"
 		"ypos"			"40"
