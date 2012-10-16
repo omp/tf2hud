@@ -13,18 +13,20 @@
 		"team1_player_base_offset_x"		"0"
 		"team1_player_base_y"				"122"
 		"team1_player_delta_x"				"0"
-		"team1_player_delta_y"				"-15"
+		"team1_player_delta_y"				"-14"
 		"team2_player_base_offset_x"		"0"
 		"team2_player_base_y"				"146"
 		"team2_player_delta_x"				"0"
-		"team2_player_delta_y"				"15"
+		"team2_player_delta_y"				"14"
 		
 		"playerpanels_kv"
 		{
 			"visible"		"0"
 			"wide"			"128"
-			"tall"			"18"
+			"tall"			"14"
 			"zpos"			"1"
+			
+			"paintborder"	"0"
 			
 			"color_ready"	"0 255 0 220"
 			"color_notready"	"0 0 0 220"
@@ -37,76 +39,12 @@
 				"ypos"			"0"
 				"zpos"			"-1"
 				"wide"			"128"
-				"tall"			"18"
+				"tall"			"14"
 				"autoResize"	"0"
 				"pinCorner"		"0"
 				"visible"		"1"
 				"enabled"		"1"
-				"fillcolor"		"30 30 30 30"
-			}
-			
-			"PanelCoverTop"
-			{
-				"ControlName"	"ImagePanel"
-				"fieldName"		"PanelCoverTop"
-				"xpos"			"0"
-				"ypos"			"-1" // omp -- -1 for low-res grid.
-				"zpos"			"3" // omp -- place above class image.
-				"wide"			"128"
-				"tall"			"4" // omp -- +1 for low-res grid.
-				"autoResize"	"0"
-				"pinCorner"		"0"
-				"visible"		"1"
-				"enabled"		"1"
-				"fillcolor"		"30 30 30 255"
-			}
-			
-			"PanelCoverBottom"
-			{
-				"ControlName"	"ImagePanel"
-				"fieldName"		"PanelCoverBottom"
-				"xpos"			"0"
-				"ypos"			"15"
-				"zpos"			"3" // omp -- place above class image.
-				"wide"			"128"
-				"tall"			"4" // omp -- +1 for low-res grid.
-				"autoResize"	"0"
-				"pinCorner"		"0"
-				"visible"		"1"
-				"enabled"		"1"
-				"fillcolor"		"30 30 30 255"
-			}
-			
-			"PanelCoverLeft"
-			{
-				"ControlName"	"ImagePanel"
-				"fieldName"		"PanelCoverLeft"
-				"xpos"			"0"
-				"ypos"			"0"
-				"zpos"			"-1"
-				"wide"			"39"
-				"tall"			"18"
-				"autoResize"	"0"
-				"pinCorner"		"0"
-				"visible"		"1"
-				"enabled"		"1"
-				"fillcolor"		"30 30 30 255"
-			}
-			
-			"PanelCoverRight"
-			{
-				"ControlName"	"ImagePanel"
-				"fieldName"		"PanelCoverRight"
-				"xpos"			"125"
-				"ypos"			"0"
-				"zpos"			"-1"
-				"wide"			"4" // omp -- +1 for low-res grid.
-				"tall"			"18"
-				"autoResize"	"0"
-				"pinCorner"		"0"
-				"visible"		"1"
-				"enabled"		"1"
-				"fillcolor"		"30 30 30 255"
+				"fillcolor"		"OmpDarkerBG"
 			}
 			
 			"playername"
@@ -114,11 +52,11 @@
 				"ControlName"	"CExLabel"
 				"fieldName"		"playername"
 				"font"			"Futura11"
-				"xpos"			"41"
-				"ypos"			"3"
+				"xpos"			"16"
+				"ypos"			"0"
 				"zpos"			"5"
-				"wide"			"64"
-				"tall"			"12"
+				"wide"			"68"
+				"tall"			"14"
 				"autoResize"	"0"
 				"pinCorner"		"0"
 				"visible"		"1"
@@ -140,8 +78,8 @@
 			{
 				"ControlName"	"CTFClassImage"
 				"fieldName"		"classimage"
-				"xpos"			"2"
-				"ypos"			"3"
+				"xpos"			"0"
+				"ypos"			"1"
 				"zpos"			"2"
 				"wide"			"13"
 				"tall"			"13"
@@ -184,8 +122,8 @@
 			{
 				"ControlName"		"EditablePanel"
 				"fieldName"			"HealthIcon"
-				"xpos"				"15"
-				"ypos"				"2"
+				"xpos"				"104"
+				"ypos"				"0"
 				"zpos"				"3"
 				"wide"				"24"
 				"tall"				"14"
@@ -196,6 +134,24 @@
 				"TFFont"					"HudFontSmallest"
 				"HealthDeathWarningColor"	"HUDDeathWarning"
 				"TextColor"					"HudOffWhite"
+			}
+			
+			"HealthIconBG"
+			{
+				"ControlName"	"CExLabel"
+				"fieldName"		"HealthIconBG"
+				"font"			"BlocksSharp64"
+				"xpos"			"104"
+				"ypos"			"0"
+				"zpos"			"2"
+				"wide"			"24"
+				"tall"			"14"
+				"autoResize"	"0"
+				"pinCorner"		"0"
+				"visible"		"1"
+				"labelText"		"0"
+				"textAlignment"	"east"
+				"fgcolor"		"30 30 30 255"
 			}
 			
 			"ReadyBG"
@@ -252,16 +208,16 @@
 				"ControlName"	"CExLabel"
 				"fieldName"		"respawntime"
 				"font"			"Futura9"
-				"xpos"			"15"
-				"ypos"			"2"
+				"xpos"			"0"
+				"ypos"			"0"
 				"zpos"			"5"
-				"wide"			"24"
+				"wide"			"13"
 				"tall"			"14"
 				"autoResize"	"0"
 				"pinCorner"		"0"
 				"visible"		"1"
 				"labelText"		"%respawntime%"
-				"textAlignment"	"center"
+				"textAlignment"	"east"
 				"fgcolor"		"OmpRespawnTime"
 				
 				if_mvm
@@ -275,8 +231,8 @@
 				"ControlName"	"CExLabel"
 				"fieldName"		"respawntimecover"
 				"font"			"BlocksSharp64"
-				"xpos"			"15"
-				"ypos"			"2"
+				"xpos"			"104"
+				"ypos"			"0"
 				"zpos"			"5"
 				"wide"			"24"
 				"tall"			"14"
@@ -293,8 +249,8 @@
 				"ControlName"	"CExLabel"
 				"fieldName"		"chargeamount"
 				"font"			"Futura9"
-				"xpos"			"105"
-				"ypos"			"2"
+				"xpos"			"84"
+				"ypos"			"0"
 				"zpos"			"6"
 				"wide"			"20"
 				"tall"			"14"
