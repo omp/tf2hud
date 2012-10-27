@@ -206,10 +206,8 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"PlayerStatus_WheelOfDoom"
-		"xpos"			"115"
-		"xpos_minmode"	"115"
-		"ypos"			"75"
-		"ypos_minmode"	"55"
+		"xpos"			"70"
+		"ypos"			"90"
 		"zpos"			"7"
 		"wide"			"32"
 		"tall"			"32"
@@ -218,5 +216,10 @@
 		"scaleImage"	"1"	
 		"image"			"../signs/death_wheel_whammy"
 		"fgcolor"		"TanDark"
+		
+		"xpos_minmode"	"44"
+		"ypos_minmode"	"60"
+		"wide_minmode"	"24"
+		"tall_minmode"	"24"
 	}
 }
