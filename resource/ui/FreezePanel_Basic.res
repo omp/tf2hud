@@ -9,7 +9,7 @@
 		"wide"			"640"		
 		"tall"			"480"		
 		"visible"		"1"
-		
+
 		"NemesisSubPanel"
 		{
 			"ControlName"		"EditablePanel"
@@ -261,7 +261,8 @@
 		"wide"			"200"		
 		"tall"			"32"		
 		"visible"		"1"
-	
+		"ForceStereoRenderToFrameBuffer" "1"
+
 		"FreezePanelBG"
 		{
 			"ControlName"		"CTFImagePanel"
