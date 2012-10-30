@@ -1320,6 +1320,22 @@
 		"enabled" "0"
 		"textAlignment" "center"
 	}
+	
+	"OmpCrosshairDot"
+	{
+		"controlName" "CExLabel"
+		"fieldName" "OmpCrosshairDot"
+		"font" "Crosshairs22"
+		"fgcolor" "255 0 255 255"
+		"labelText" "3"
+		"xpos" "c-103"
+		"ypos" "c-100"
+		"wide" "201"
+		"tall" "201"
+		"visible" "0"
+		"enabled" "0"
+		"textAlignment" "center"
+	}
 
 	"OmpCrosshairCircle"
 	{
