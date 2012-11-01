@@ -19,10 +19,10 @@
 		"font"			"Futura32"
 		"fgcolor"		"OmpDamageNumbers"
 		"xpos"			"c-232"
-		"ypos"			"c70"
+		"ypos"			"c65"
 		"zpos"			"5"
 		"wide"			"131"
-		"tall"			"23"
+		"tall"			"33"
 		"visible"		"1"
 		"enabled"		"1"
 		"textAlignment"	"center"	
@@ -30,9 +30,9 @@
 		
 		"font_minmode"	"Futura24"
 		"xpos_minmode"	"c-142"
-		"ypos_minmode"	"c50"
+		"ypos_minmode"	"c46"
 		"wide_minmode"	"91"
-		"tall_minmode"	"17"
+		"tall_minmode"	"25"
 	}
 	"CDamageAccountValueShadow"
 	{
@@ -41,10 +41,10 @@
 		"font"			"Futura32"
 		"fgcolor"		"OmpShadow"
 		"xpos"			"c-231"
-		"ypos"			"c71"
+		"ypos"			"c66"
 		"zpos"			"5"
 		"wide"			"131"
-		"tall"			"23"
+		"tall"			"33"
 		"visible"		"1"
 		"enabled"		"1"
 		"textAlignment"	"center"	
@@ -52,8 +52,8 @@
 		
 		"font_minmode"	"Futura24"
 		"xpos_minmode"	"c-141"
-		"ypos_minmode"	"c51"
+		"ypos_minmode"	"c47"
 		"wide_minmode"	"91"
-		"tall_minmode"	"17"
+		"tall_minmode"	"25"
 	}
 }

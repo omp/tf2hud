@@ -73,10 +73,10 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"PlayerStatusHealthValue"
 		"xpos"			"0"
-		"ypos"			"46"
+		"ypos"			"37" // omp -- -9 Mac fix.
 		"zpos"			"5"
 		"wide"			"130"
-		"tall"			"38"
+		"tall"			"56" // omp -- +18 Mac fix.
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"%Health%"
@@ -85,9 +85,9 @@
 		"fgcolor"		"OmpHP"
 
 		"xpos_minmode"	"0"
-		"ypos_minmode"	"33"
+		"ypos_minmode"	"27" // omp -- -6 Mac fix.
 		"wide_minmode"	"91"
-		"tall_minmode"	"25"
+		"tall_minmode"	"37" // omp -- +12 Mac fix.
 		"font_minmode"	"FuturaHeavy36"
 	}								
 	"PlayerStatusHealthValueShadow"
@@ -95,10 +95,10 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"PlayerStatusHealthValueShadow"
 		"xpos"			"2"
-		"ypos"			"48"
+		"ypos"			"39"
 		"zpos"			"5"
 		"wide"			"130"
-		"tall"			"38"
+		"tall"			"56"
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"%Health%"
@@ -107,9 +107,9 @@
 		"fgcolor"		"OmpShadow"
 		
 		"xpos_minmode"	"1"
-		"ypos_minmode"	"34"
+		"ypos_minmode"	"28"
 		"wide_minmode"	"91"
-		"tall_minmode"	"25"
+		"tall_minmode"	"37"
 		"font_minmode"	"FuturaHeavy36"
 	}
 	"PlayerStatusBleedImage"

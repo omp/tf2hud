@@ -17,14 +17,14 @@
 		"visible" "1"
 		"enabled" "1"
 		"xpos"	"c100"
-		"ypos"	"c100"
+		"ypos"	"c54"
 		"wide"	"132"
-		"tall"	"40"
+		"tall"	"132"
 		
 		"xpos_minmode"	"c50"
-		"ypos_minmode"	"c70"
+		"ypos_minmode"	"c37"
 		"wide_minmode"	"92"
-		"tall_minmode"	"26"
+		"tall_minmode"	"92"
 	}
 	
 	HudObjectiveStatus
@@ -78,14 +78,14 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"xpos"			"c-100"
-		"ypos"			"c88"
+		"ypos"			"c52" // omp -- 2 before due to low-res grid.
 		"wide"			"332"
-		"tall"			"52"
+		"tall"			"134"
 		
 		"xpos_minmode"	"c-100"
-		"ypos_minmode"	"c68" // omp -- 2 before due to low-res grid.
+		"ypos_minmode"	"c36" // omp -- 1 before due to low-res grid.
 		"wide_minmode"	"242"
-		"tall_minmode"	"28"
+		"tall_minmode"	"93"
 	}
 	
 	HudDemomanCharge
@@ -192,9 +192,9 @@
 	{
 		"fieldName"				"CHudAccountPanel"
 		"xpos"					"c-100"
-		"ypos"					"c70"
+		"ypos"					"c66" // omp -- -4 Mac fix.
 		"wide"					"200"
-		"tall"  				"18"
+		"tall"  				"26" // omp -- +8 Mac fix.
 		"visible" 				"1"
 		"enabled" 				"1"
 		"PaintBackgroundType"	"2"
@@ -966,9 +966,9 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"xpos"			"c-100"
-		"ypos"			"c68" // omp -- 2 before due to low-res grid.
+		"ypos"			"c64" // omp -- 2 before due to low-res grid.
 		"wide"			"200"
-		"tall"			"26"
+		"tall"			"30"
 	}	
 
 	HudTeamGoal

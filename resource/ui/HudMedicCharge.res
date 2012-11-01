@@ -22,10 +22,10 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"ChargeLabel"
 		"xpos"			"200"
-		"ypos"			"12"
+		"ypos"			"39" // omp -- -9 Mac fix.
 		"zpos"			"2"
 		"wide"			"130"
-		"tall"			"38"
+		"tall"			"56" // omp -- +18 Mac fix.
 		"autoResize"	"1"
 		"pinCorner"		"2"
 		"visible"		"1"
@@ -40,19 +40,19 @@
 		
 		"font_minmode"	"FuturaHeavy36"
 		"xpos_minmode"	"150"
-		"ypos_minmode"	"2"
+		"ypos_minmode"	"28" // omp -- -6 Mac fix.
 		"wide_minmode"	"91"
-		"tall_minmode"	"25"
+		"tall_minmode"	"37" // omp -- +12 Mac fix.
 	}
 	"ChargeLabelShadow"
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"ChargeLabelShadow"
 		"xpos"			"202"
-		"ypos"			"14"
+		"ypos"			"41"
 		"zpos"			"2"
 		"wide"			"130"
-		"tall"			"38"
+		"tall"			"56"
 		"autoResize"	"1"
 		"pinCorner"		"2"
 		"visible"		"1"
@@ -67,9 +67,9 @@
 		
 		"font_minmode"	"FuturaHeavy36"
 		"xpos_minmode"	"151"
-		"ypos_minmode"	"3"
+		"ypos_minmode"	"29"
 		"wide_minmode"	"91"
-		"tall_minmode"	"25"
+		"tall_minmode"	"37"
 	}
 	
 	"ChargeMeterLabel"
@@ -77,7 +77,7 @@
 		"ControlName"			"CExLabel"
 		"fieldName"				"ChargeMeterLabel"
 		"xpos"					"25"
-		"ypos"					"0"
+		"ypos"					"36"
 		"zpos"					"3"
 		"wide"					"150"
 		"tall"					"6"
@@ -94,7 +94,7 @@
 		"fgcolor_override"		"OmpMeterLabel"
 		
 		"xpos_minmode"			"50"
-		"ypos_minmode"			"20"
+		"ypos_minmode"			"52"
 		"wide_minmode"			"100"
 	}
 	
@@ -104,7 +104,7 @@
 		"fieldName"		"ChargeMeter"
 		"font"			"Default"
 		"xpos"			"25"
-		"ypos"			"0"
+		"ypos"			"36"
 		"zpos"			"2"
 		"wide"			"150"
 		"tall"			"6"				
@@ -119,7 +119,7 @@
 		"fgcolor_override"	"255 255 255 255"
 		
 		"xpos_minmode"			"50"
-		"ypos_minmode"			"20"
+		"ypos_minmode"			"52"
 		"wide_minmode"			"100"
 	}		
 	
