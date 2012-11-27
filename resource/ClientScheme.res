@@ -2477,6 +2477,17 @@ Scheme
 				"antialias" "1"
 			}
 		}
+		"FuturaHeavyOutline20"
+		{
+			"1"
+			{
+				"name"		"FuturaStd-Heavy"
+				"tall"		"20"
+				"additive"	"0"
+				"antialias" "1"
+				"outline"	"1"
+			}
+		}
 		"FuturaHeavy36"
 		{
 			"1"
