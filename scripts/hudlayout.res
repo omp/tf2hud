@@ -938,10 +938,10 @@
 		"fieldName" 	"HudMenuEngyDestroy"
 		"visible" 		"1"
 		"enabled" 		"1"
-		"xpos"			"c-225"
-		"ypos"			"r199" // omp -- offset by 1 to align with build menu.
-		"wide"			"450"
-		"tall"			"200"
+		"xpos"			"c-145"
+		"ypos"			"r150"
+		"wide"			"290"
+		"tall"			"160"
 		"PaintBackgroundType"	"0"
 	}
 	
