@@ -149,6 +149,7 @@
 			"xpos"			"9999"
 			"ypos"			"9999"
 			"wide"			"200"
+			"tall"			"40"
 			"fgcolor"		"tanlight"
 		}
 		

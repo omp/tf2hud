@@ -14,7 +14,6 @@
 		"enabled"				"1"
 		"tabPosition"			"0"
 		"settitlebarvisible"	"0"
-		"ForceStereoRenderToFrameBuffer" "1"
 	}
 	
 	"MainBG"

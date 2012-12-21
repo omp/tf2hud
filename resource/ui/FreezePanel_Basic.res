@@ -261,7 +261,6 @@
 		"wide"			"200"		
 		"tall"			"32"		
 		"visible"		"1"
-		"ForceStereoRenderToFrameBuffer" "1"
 
 		"FreezePanelBG"
 		{
