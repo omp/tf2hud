@@ -76,7 +76,7 @@
 		"font"			"FuturaHeavy13"
 		"fgcolor"		"OmpSpecHP"
 		"labeltext"		"%Health%"
-	}								
+	}
 	"PlayerStatusHealthValueSpecShadow"
 	{
 		"ControlName"	"CExLabel"
@@ -93,4 +93,19 @@
 		"fgcolor"		"OmpShadow"
 		"labeltext"		"%Health%"
 	}
+	"PlayerStatusPlayerLevel"
+	{
+		"ControlName"	"CExLabel"
+		"fieldName"		"PlayerStatusPlayerLevel"
+		"xpos"			"9999"
+		"ypos"			"9999"
+		"zpos"			"5"
+		"wide"			"12"
+		"tall"			"12"
+		"visible"		"0"
+		"enabled"		"1"
+		"textAlignment"	"center"	
+		"font"			"ScoreboardVerySmall"
+		"fgcolor"		"TFOrange"
+	}							
 }
