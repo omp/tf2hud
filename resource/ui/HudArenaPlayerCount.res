@@ -171,4 +171,35 @@
 			"scaleImage"	"1"
 		}			
 	}
+
+	"PlayerIcon"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"PlayerIcon"
+		"xpos"			"c-4"
+		"ypos"			"2"
+		"zpos"			"3"
+		"wide"			"8"
+		"tall"			"16"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"capture_icon_white"
+		"scaleImage"	"1"
+	}
+
+	"TargetBG"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"TargetBG"
+		"xpos"			"c-25"
+		"ypos"			"0"
+		"zpos"			"-1"
+		"wide"			"50"
+		"tall"			"20"
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"fillcolor"		"OmpMediumBG"
+	}
 }
