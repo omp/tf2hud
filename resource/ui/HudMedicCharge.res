@@ -78,7 +78,7 @@
 		"fieldName"		"IndividualChargesLabel"
 		"xpos"			"200"
 		"ypos"			"39" // omp -- -9 Mac fix.
-		"zpos"			"2"
+		"zpos"			"3" // omp -- place over charge label shadow.
 		"wide"			"130"
 		"tall"			"56" // omp -- +18 Mac fix.
 		"autoResize"	"1"
@@ -143,13 +143,33 @@
 		"textAlignment"	"Left"
 		"dulltext"		"0"
 		"brighttext"	"0"
-		"bgcolor_override"	"OmpDarkBG"
+		"bgcolor_override"	"0 0 0 0"
 		"fgcolor_override"	"255 255 255 255"
 		
 		"xpos_minmode"			"50"
 		"ypos_minmode"			"52"
 		"wide_minmode"			"100"
 	}		
+
+	"ChargeMeterBG"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"TargetBG"
+		"xpos"			"25"
+		"ypos"			"36"
+		"zpos"			"1"
+		"wide"			"150"
+		"tall"			"6"
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"fillcolor"		"OmpDarkBG"
+		
+		"xpos_minmode"			"50"
+		"ypos_minmode"			"52"
+		"wide_minmode"			"100"
+	}
 
 	"ChargeMeter1"
 	{	
@@ -159,7 +179,7 @@
 		"xpos"			"25"
 		"ypos"			"36"
 		"zpos"			"2"
-		"wide"			"33"
+		"wide"			"36"
 		"tall"			"6"				
 		"autoResize"	"0"
 		"pinCorner"		"0"
@@ -168,12 +188,12 @@
 		"textAlignment"	"Left"
 		"dulltext"		"0"
 		"brighttext"	"0"
-		"bgcolor_override"	"OmpDarkBG"
+		"bgcolor_override"	"0 0 0 0"
 		"fgcolor_override"	"255 255 255 255"
 		
 		"xpos_minmode"			"50"
 		"ypos_minmode"			"52"
-		"wide_minmode"			"22"
+		"wide_minmode"			"24"
 	}
 
 	"ChargeMeter2"
@@ -181,10 +201,10 @@
 		"ControlName"	"ContinuousProgressBar"
 		"fieldName"		"ChargeMeter2"
 		"font"			"Default"
-		"xpos"			"64"
+		"xpos"			"63"
 		"ypos"			"36"
 		"zpos"			"2"
-		"wide"			"33"
+		"wide"			"36"
 		"tall"			"6"				
 		"autoResize"	"0"
 		"pinCorner"		"0"
@@ -193,12 +213,12 @@
 		"textAlignment"	"Left"
 		"dulltext"		"0"
 		"brighttext"	"0"
-		"bgcolor_override"	"OmpDarkBG"
+		"bgcolor_override"	"0 0 0 0"
 		"fgcolor_override"	"255 255 255 255"
 		
 		"xpos_minmode"			"76"
 		"ypos_minmode"			"52"
-		"wide_minmode"			"22"
+		"wide_minmode"			"23"
 	}
 
 	"ChargeMeter3"
@@ -206,10 +226,10 @@
 		"ControlName"	"ContinuousProgressBar"
 		"fieldName"		"ChargeMeter3"
 		"font"			"Default"
-		"xpos"			"103"
+		"xpos"			"101"
 		"ypos"			"36"
 		"zpos"			"2"
-		"wide"			"33"
+		"wide"			"36"
 		"tall"			"6"			
 		"autoResize"	"0"
 		"pinCorner"		"0"
@@ -218,12 +238,12 @@
 		"textAlignment"	"Left"
 		"dulltext"		"0"
 		"brighttext"	"0"
-		"bgcolor_override"	"OmpDarkBG"
+		"bgcolor_override"	"0 0 0 0"
 		"fgcolor_override"	"255 255 255 255"
 		
-		"xpos_minmode"			"102"
+		"xpos_minmode"			"101"
 		"ypos_minmode"			"52"
-		"wide_minmode"			"22"
+		"wide_minmode"			"23"
 	}
 
 	"ChargeMeter4"
@@ -231,10 +251,10 @@
 		"ControlName"	"ContinuousProgressBar"
 		"fieldName"		"ChargeMeter4"
 		"font"			"Default"
-		"xpos"			"142"
+		"xpos"			"139"
 		"ypos"			"36"
 		"zpos"			"2"
-		"wide"			"33"
+		"wide"			"36"
 		"tall"			"6"			
 		"autoResize"	"0"
 		"pinCorner"		"0"
@@ -243,12 +263,12 @@
 		"textAlignment"	"Left"
 		"dulltext"		"0"
 		"brighttext"	"0"
-		"bgcolor_override"	"OmpDarkBG"
+		"bgcolor_override"	"0 0 0 0"
 		"fgcolor_override"	"255 255 255 255"
 		
-		"xpos_minmode"			"128"
+		"xpos_minmode"			"126"
 		"ypos_minmode"			"52"
-		"wide_minmode"			"22"
+		"wide_minmode"			"24"
 	}
 	
 	"HealthClusterIcon"
@@ -270,16 +290,15 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"ResistIcon"
-		"xpos"			"82"
-		"ypos"			"0"
-		"wide"			"36"
-		"tall"			"36"
-		"visible"		"1"
+		"xpos"			"0"
+		"ypos"			"-25"
+		"wide"			"24"
+		"tall"			"24"
+		"visible"		"0"
+		"visible_minmode"		"0"
 		"enabled"		"1"
 		"image"			"../HUD/defense_buff_bullet_blue"
 		"scaleImage"	"1"	
-		
-		"ypos_minmode"	"16"
 	}
 	
 }
