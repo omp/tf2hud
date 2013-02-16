@@ -68,7 +68,7 @@
 		"visible"		"0"
 		"enabled"		"1"
 		"image"			"../hud/health_over_bg"
-		"scaleImage"	"1"
+		"scaleImage"	"1"	
 		
 		"xpos_minmode"	"20"
 		"ypos_minmode"	"20"
