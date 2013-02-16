@@ -26,14 +26,21 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"PlayerStatusHealthImage"
-		"xpos"			"9999"
-		"ypos"			"9999"
+		"ypos"			"0"
 		"zpos"			"4"
-		"wide"			"51"
-		"tall"			"51"
+		"wide"			"0"
+		"tall"			"0"
 		"visible"		"1"
 		"enabled"		"1"
 		"scaleImage"	"1"	
+
+		// omp -- fix positioning bud introduced by valve with the vaccinator.
+		// the xpos value of status icons is now ignored, and they are placed
+		// a certain offset away from the health image. therefore, we place
+		// the image in a convenient location, and make it invisible.
+		"xpos"			"39"
+		"xpos_minmode"	"23"
+		"alpha"			"0"
 	}		
 	"PlayerStatusHealthImageBG"
 	{
@@ -61,7 +68,7 @@
 		"visible"		"0"
 		"enabled"		"1"
 		"image"			"../hud/health_over_bg"
-		"scaleImage"	"1"	
+		"scaleImage"	"1"
 		
 		"xpos_minmode"	"20"
 		"ypos_minmode"	"20"
