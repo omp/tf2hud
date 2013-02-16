@@ -1084,7 +1084,7 @@
 		"visible"				"1"
 		"enabled"				"1"
 		"xpos"					"c-320"
-		"ypos"					"300"
+		"ypos"					"c39" // omp -- place above item meters.
 		"wide"					"640"
 		"tall"					"100"
 	}
