@@ -262,11 +262,11 @@
 	{
 		"ControlName"	"CTFImagePanel"
 		"fieldName"		"OutlineImage"
-		"xpos"			"9999"
-		"ypos"			"9999"
+		"xpos"			"c0"
+		"ypos"			"r38"
 		"zpos"			"9"
-		"wide"			"100"
-		"tall"			"50"
+		"wide"			"0"
+		"tall"			"0"
 		"visible"		"1"
 		"enabled"		"1"
 		"image"			"../hud/objectives_flagpanel_carried_outline"
@@ -289,12 +289,12 @@
 		
 		"if_hybrid"
 		{
-			"ypos"		"9999"
+			"ypos"		"r72"
 		}
 		
 		"if_specialdelivery"
 		{
-			"visible"	"r142" // omp -- wtf? typo?
+			"ypos"		"r44"
 		}
 	}		
 	
@@ -476,11 +476,11 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"SpecCarriedImage"
-		"xpos"			"9999"
-		"ypos"			"9999"
-		"zpos"			"10"
-		"wide"			"100"
-		"tall"			"100"
+		"xpos"			"c-16"
+		"ypos"			"r84"
+		"zpos"			"-1"
+		"wide"			"32"
+		"tall"			"32"
 		"visible"		"0"
 		"enabled"		"1"
 		"image"			"../hud/objectives_flagpanel_carried_red"
