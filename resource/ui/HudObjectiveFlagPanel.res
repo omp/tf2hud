@@ -485,5 +485,10 @@
 		"enabled"		"1"
 		"image"			"../hud/objectives_flagpanel_carried_red"
 		"scaleImage"	"1"
+		
+		"if_hybrid"
+		{
+			"ypos"		"r102"
+		}
 	}			
 }
