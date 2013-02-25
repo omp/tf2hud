@@ -1062,9 +1062,9 @@
 		"visible"				"0"
 		"enabled"				"1"
 		"xpos"					"c-60"
-		"ypos"					"-70"
+		"ypos"					"-72"
 		"wide"					"120"
-		"tall"					"68"
+		"tall"					"70"
 	}
 
 	HudStopWatch
