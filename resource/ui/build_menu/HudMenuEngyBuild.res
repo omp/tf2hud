@@ -126,7 +126,7 @@
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"CancelLabel"
-		"font"			"Futura11"
+		"font"			"Futura9"
 		"fgcolor"		"OmpText"	
 		"xpos"			"4"
 		"ypos"			"0"

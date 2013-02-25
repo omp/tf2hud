@@ -953,10 +953,10 @@
 		"visible" 		"1"
 		"enabled" 		"1"
 		"xpos"			"c-130"
-		"ypos"			"c100"
+		"ypos"			"c108"
 		"zpos"			"1"
 		"wide"			"260"
-		"tall"			"96"
+		"tall"			"88"
 		"PaintBackgroundType"	"0"
 	}	
 	
