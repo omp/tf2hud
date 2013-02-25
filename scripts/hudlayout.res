@@ -190,9 +190,9 @@
 	{
 		"fieldName"				"CHudAccountPanel"
 		"xpos"					"c-100"
-		"ypos"					"c66" // omp -- -4 Mac fix.
+		"ypos"					"c46"
 		"wide"					"200"
-		"tall"  				"26" // omp -- +8 Mac fix.
+		"tall"  				"46"
 		"visible" 				"1"
 		"enabled" 				"1"
 		"PaintBackgroundType"	"2"
