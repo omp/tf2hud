@@ -76,7 +76,7 @@
 		"xpos_minmode"	"30"
 		"ypos_minmode"	"20"
 		"wide_minmode"	"52"
-		"tall_minmode"	"52"
+		"tall_minmode"	"51" // omp -- -1 alignment fix.
 	}
 	"PlayerStatusHealthValue"
 	{
