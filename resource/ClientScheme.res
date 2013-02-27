@@ -2701,7 +2701,7 @@ Scheme
 				"antialias" "1"
 			}
 		}
-		"Crosshairs6Outline"
+		"CrosshairsOutline6"
 		{
 			"1"
 			{
@@ -2712,7 +2712,7 @@ Scheme
 				"outline"	"1"
 			}
 		}
-		"Crosshairs8Outline"
+		"CrosshairsOutline8"
 		{
 			"1"
 			{
@@ -2723,7 +2723,7 @@ Scheme
 				"outline"	"1"
 			}
 		}
-		"Crosshairs10Outline"
+		"CrosshairsOutline10"
 		{
 			"1"
 			{
@@ -2734,7 +2734,7 @@ Scheme
 				"outline"	"1"
 			}
 		}
-		"Crosshairs12Outline"
+		"CrosshairsOutline12"
 		{
 			"1"
 			{
@@ -2745,7 +2745,7 @@ Scheme
 				"outline"	"1"
 			}
 		}
-		"Crosshairs14Outline"
+		"CrosshairsOutline14"
 		{
 			"1"
 			{
@@ -2756,7 +2756,7 @@ Scheme
 				"outline"	"1"
 			}
 		}
-		"Crosshairs16Outline"
+		"CrosshairsOutline16"
 		{
 			"1"
 			{
@@ -2767,7 +2767,7 @@ Scheme
 				"outline"	"1"
 			}
 		}
-		"Crosshairs18Outline"
+		"CrosshairsOutline18"
 		{
 			"1"
 			{
@@ -2778,7 +2778,7 @@ Scheme
 				"outline"	"1"
 			}
 		}
-		"Crosshairs20Outline"
+		"CrosshairsOutline20"
 		{
 			"1"
 			{
@@ -2789,7 +2789,7 @@ Scheme
 				"outline"	"1"
 			}
 		}
-		"Crosshairs22Outline"
+		"CrosshairsOutline22"
 		{
 			"1"
 			{
@@ -2800,7 +2800,7 @@ Scheme
 				"outline"	"1"
 			}
 		}
-		"Crosshairs24Outline"
+		"CrosshairsOutline24"
 		{
 			"1"
 			{
@@ -2811,7 +2811,7 @@ Scheme
 				"outline"	"1"
 			}
 		}
-		"Crosshairs26Outline"
+		"CrosshairsOutline26"
 		{
 			"1"
 			{
@@ -2822,7 +2822,7 @@ Scheme
 				"outline"	"1"
 			}
 		}
-		"Crosshairs28Outline"
+		"CrosshairsOutline28"
 		{
 			"1"
 			{
@@ -2833,7 +2833,7 @@ Scheme
 				"outline"	"1"
 			}
 		}
-		"Crosshairs30Outline"
+		"CrosshairsOutline30"
 		{
 			"1"
 			{
@@ -2844,7 +2844,7 @@ Scheme
 				"outline"	"1"
 			}
 		}
-		"Crosshairs32Outline"
+		"CrosshairsOutline32"
 		{
 			"1"
 			{
@@ -2855,7 +2855,7 @@ Scheme
 				"outline"	"1"
 			}
 		}
-		"Crosshairs34Outline"
+		"CrosshairsOutline34"
 		{
 			"1"
 			{
@@ -2866,7 +2866,7 @@ Scheme
 				"outline"	"1"
 			}
 		}
-		"Crosshairs36Outline"
+		"CrosshairsOutline36"
 		{
 			"1"
 			{
@@ -2877,7 +2877,7 @@ Scheme
 				"outline"	"1"
 			}
 		}
-		"Crosshairs38Outline"
+		"CrosshairsOutline38"
 		{
 			"1"
 			{
@@ -2888,7 +2888,7 @@ Scheme
 				"outline"	"1"
 			}
 		}
-		"Crosshairs40Outline"
+		"CrosshairsOutline40"
 		{
 			"1"
 			{
@@ -3009,7 +3009,7 @@ Scheme
 				"antialias" "0"
 			}
 		}
-		"CrosshairsSharp10Outline"
+		"CrosshairsSharpOutline10"
 		{
 			"1"
 			{
@@ -3020,7 +3020,7 @@ Scheme
 				"outline"	"1"
 			}
 		}
-		"CrosshairsSharp11Outline"
+		"CrosshairsSharpOutline11"
 		{
 			"1"
 			{
@@ -3031,7 +3031,7 @@ Scheme
 				"outline"	"1"
 			}
 		}
-		"CrosshairsSharp12Outline"
+		"CrosshairsSharpOutline12"
 		{
 			"1"
 			{
@@ -3042,7 +3042,7 @@ Scheme
 				"outline"	"1"
 			}
 		}
-		"CrosshairsSharp13Outline"
+		"CrosshairsSharpOutline13"
 		{
 			"1"
 			{
@@ -3053,7 +3053,7 @@ Scheme
 				"outline"	"1"
 			}
 		}
-		"CrosshairsSharp14Outline"
+		"CrosshairsSharpOutline14"
 		{
 			"1"
 			{
@@ -3064,7 +3064,7 @@ Scheme
 				"outline"	"1"
 			}
 		}
-		"CrosshairsSharp15Outline"
+		"CrosshairsSharpOutline15"
 		{
 			"1"
 			{
@@ -3075,7 +3075,7 @@ Scheme
 				"outline"	"1"
 			}
 		}
-		"CrosshairsSharp16Outline"
+		"CrosshairsSharpOutline16"
 		{
 			"1"
 			{
@@ -3086,7 +3086,7 @@ Scheme
 				"outline"	"1"
 			}
 		}
-		"CrosshairsSharp17Outline"
+		"CrosshairsSharpOutline17"
 		{
 			"1"
 			{
@@ -3097,7 +3097,7 @@ Scheme
 				"outline"	"1"
 			}
 		}
-		"CrosshairsSharp18Outline"
+		"CrosshairsSharpOutline18"
 		{
 			"1"
 			{
@@ -3108,7 +3108,7 @@ Scheme
 				"outline"	"1"
 			}
 		}
-		"CrosshairsSharp19Outline"
+		"CrosshairsSharpOutline19"
 		{
 			"1"
 			{
@@ -3119,7 +3119,7 @@ Scheme
 				"outline"	"1"
 			}
 		}
-		"CrosshairsSharp20Outline"
+		"CrosshairsSharpOutline20"
 		{
 			"1"
 			{
@@ -3220,7 +3220,7 @@ Scheme
 				"antialias" "0"
 			}
 		}
-		"SymbolSharp16Outline"
+		"SymbolSharpOutline16"
 		{
 			"1"
 			{
@@ -3231,7 +3231,7 @@ Scheme
 				"outline"	"1"
 			}
 		}
-		"SymbolSharp18Outline"
+		"SymbolSharpOutline18"
 		{
 			"1"
 			{
@@ -3242,7 +3242,7 @@ Scheme
 				"outline"	"1"
 			}
 		}
-		"SymbolSharp20Outline"
+		"SymbolSharpOutline20"
 		{
 			"1"
 			{
@@ -3253,7 +3253,7 @@ Scheme
 				"outline"	"1"
 			}
 		}
-		"SymbolSharp22Outline"
+		"SymbolSharpOutline22"
 		{
 			"1"
 			{
@@ -3264,7 +3264,7 @@ Scheme
 				"outline"	"1"
 			}
 		}
-		"SymbolSharp24Outline"
+		"SymbolSharpOutline24"
 		{
 			"1"
 			{
@@ -3275,7 +3275,7 @@ Scheme
 				"outline"	"1"
 			}
 		}
-		"SymbolSharp26Outline"
+		"SymbolSharpOutline26"
 		{
 			"1"
 			{
@@ -3286,7 +3286,7 @@ Scheme
 				"outline"	"1"
 			}
 		}
-		"SymbolSharp28Outline"
+		"SymbolSharpOutline28"
 		{
 			"1"
 			{
@@ -3297,7 +3297,7 @@ Scheme
 				"outline"	"1"
 			}
 		}
-		"SymbolSharp30Outline"
+		"SymbolSharpOutline30"
 		{
 			"1"
 			{
@@ -3308,7 +3308,7 @@ Scheme
 				"outline"	"1"
 			}
 		}
-		"SymbolSharp32Outline"
+		"SymbolSharpOutline32"
 		{
 			"1"
 			{
