@@ -2701,6 +2701,204 @@ Scheme
 				"antialias" "1"
 			}
 		}
+		"Crosshairs6Outline"
+		{
+			"1"
+			{
+				"name"		"Crosshairs Regular"
+				"tall"		"6"
+				"additive"	"0"
+				"antialias" "1"
+				"outline"	"1"
+			}
+		}
+		"Crosshairs8Outline"
+		{
+			"1"
+			{
+				"name"		"Crosshairs Regular"
+				"tall"		"8"
+				"additive"	"0"
+				"antialias" "1"
+				"outline"	"1"
+			}
+		}
+		"Crosshairs10Outline"
+		{
+			"1"
+			{
+				"name"		"Crosshairs Regular"
+				"tall"		"10"
+				"additive"	"0"
+				"antialias" "1"
+				"outline"	"1"
+			}
+		}
+		"Crosshairs12Outline"
+		{
+			"1"
+			{
+				"name"		"Crosshairs Regular"
+				"tall"		"12"
+				"additive"	"0"
+				"antialias" "1"
+				"outline"	"1"
+			}
+		}
+		"Crosshairs14Outline"
+		{
+			"1"
+			{
+				"name"		"Crosshairs Regular"
+				"tall"		"14"
+				"additive"	"0"
+				"antialias" "1"
+				"outline"	"1"
+			}
+		}
+		"Crosshairs16Outline"
+		{
+			"1"
+			{
+				"name"		"Crosshairs Regular"
+				"tall"		"16"
+				"additive"	"0"
+				"antialias" "1"
+				"outline"	"1"
+			}
+		}
+		"Crosshairs18Outline"
+		{
+			"1"
+			{
+				"name"		"Crosshairs Regular"
+				"tall"		"18"
+				"additive"	"0"
+				"antialias" "1"
+				"outline"	"1"
+			}
+		}
+		"Crosshairs20Outline"
+		{
+			"1"
+			{
+				"name"		"Crosshairs Regular"
+				"tall"		"20"
+				"additive"	"0"
+				"antialias" "1"
+				"outline"	"1"
+			}
+		}
+		"Crosshairs22Outline"
+		{
+			"1"
+			{
+				"name"		"Crosshairs Regular"
+				"tall"		"22"
+				"additive"	"0"
+				"antialias" "1"
+				"outline"	"1"
+			}
+		}
+		"Crosshairs24Outline"
+		{
+			"1"
+			{
+				"name"		"Crosshairs Regular"
+				"tall"		"24"
+				"additive"	"0"
+				"antialias" "1"
+				"outline"	"1"
+			}
+		}
+		"Crosshairs26Outline"
+		{
+			"1"
+			{
+				"name"		"Crosshairs Regular"
+				"tall"		"26"
+				"additive"	"0"
+				"antialias" "1"
+				"outline"	"1"
+			}
+		}
+		"Crosshairs28Outline"
+		{
+			"1"
+			{
+				"name"		"Crosshairs Regular"
+				"tall"		"28"
+				"additive"	"0"
+				"antialias" "1"
+				"outline"	"1"
+			}
+		}
+		"Crosshairs30Outline"
+		{
+			"1"
+			{
+				"name"		"Crosshairs Regular"
+				"tall"		"30"
+				"additive"	"0"
+				"antialias" "1"
+				"outline"	"1"
+			}
+		}
+		"Crosshairs32Outline"
+		{
+			"1"
+			{
+				"name"		"Crosshairs Regular"
+				"tall"		"32"
+				"additive"	"0"
+				"antialias" "1"
+				"outline"	"1"
+			}
+		}
+		"Crosshairs34Outline"
+		{
+			"1"
+			{
+				"name"		"Crosshairs Regular"
+				"tall"		"34"
+				"additive"	"0"
+				"antialias" "1"
+				"outline"	"1"
+			}
+		}
+		"Crosshairs36Outline"
+		{
+			"1"
+			{
+				"name"		"Crosshairs Regular"
+				"tall"		"36"
+				"additive"	"0"
+				"antialias" "1"
+				"outline"	"1"
+			}
+		}
+		"Crosshairs38Outline"
+		{
+			"1"
+			{
+				"name"		"Crosshairs Regular"
+				"tall"		"38"
+				"additive"	"0"
+				"antialias" "1"
+				"outline"	"1"
+			}
+		}
+		"Crosshairs40Outline"
+		{
+			"1"
+			{
+				"name"		"Crosshairs Regular"
+				"tall"		"40"
+				"additive"	"0"
+				"antialias" "1"
+				"outline"	"1"
+			}
+		}
 		"CrosshairsSharp10"
 		{
 			"1"
@@ -2811,6 +3009,167 @@ Scheme
 				"antialias" "0"
 			}
 		}
+		"CrosshairsSharp10Outline"
+		{
+			"1"
+			{
+				"name"		"Crosshairs Regular"
+				"tall"		"10"
+				"additive"	"0"
+				"antialias" "0"
+				"outline"	"1"
+			}
+		}
+		"CrosshairsSharp11Outline"
+		{
+			"1"
+			{
+				"name"		"Crosshairs Regular"
+				"tall"		"11"
+				"additive"	"0"
+				"antialias" "0"
+				"outline"	"1"
+			}
+		}
+		"CrosshairsSharp12Outline"
+		{
+			"1"
+			{
+				"name"		"Crosshairs Regular"
+				"tall"		"12"
+				"additive"	"0"
+				"antialias" "0"
+				"outline"	"1"
+			}
+		}
+		"CrosshairsSharp13Outline"
+		{
+			"1"
+			{
+				"name"		"Crosshairs Regular"
+				"tall"		"13"
+				"additive"	"0"
+				"antialias" "0"
+				"outline"	"1"
+			}
+		}
+		"CrosshairsSharp14Outline"
+		{
+			"1"
+			{
+				"name"		"Crosshairs Regular"
+				"tall"		"14"
+				"additive"	"0"
+				"antialias" "0"
+				"outline"	"1"
+			}
+		}
+		"CrosshairsSharp15Outline"
+		{
+			"1"
+			{
+				"name"		"Crosshairs Regular"
+				"tall"		"15"
+				"additive"	"0"
+				"antialias" "0"
+				"outline"	"1"
+			}
+		}
+		"CrosshairsSharp16Outline"
+		{
+			"1"
+			{
+				"name"		"Crosshairs Regular"
+				"tall"		"16"
+				"additive"	"0"
+				"antialias" "0"
+				"outline"	"1"
+			}
+		}
+		"CrosshairsSharp17Outline"
+		{
+			"1"
+			{
+				"name"		"Crosshairs Regular"
+				"tall"		"17"
+				"additive"	"0"
+				"antialias" "0"
+				"outline"	"1"
+			}
+		}
+		"CrosshairsSharp18Outline"
+		{
+			"1"
+			{
+				"name"		"Crosshairs Regular"
+				"tall"		"18"
+				"additive"	"0"
+				"antialias" "0"
+				"outline"	"1"
+			}
+		}
+		"CrosshairsSharp19Outline"
+		{
+			"1"
+			{
+				"name"		"Crosshairs Regular"
+				"tall"		"19"
+				"additive"	"0"
+				"antialias" "0"
+				"outline"	"1"
+			}
+		}
+		"CrosshairsSharp20Outline"
+		{
+			"1"
+			{
+				"name"		"Crosshairs Regular"
+				"tall"		"20"
+				"additive"	"0"
+				"antialias" "0"
+				"outline"	"1"
+			}
+		}
+		"SymbolSharp16"
+		{
+			"1"
+			{
+				"name"		"Symbol"
+				"tall"		"16"
+				"additive"	"0"
+				"antialias" "0"
+			}
+		}
+		"SymbolSharp18"
+		{
+			"1"
+			{
+				"name"		"Symbol"
+				"tall"		"18"
+				"additive"	"0"
+				"antialias" "0"
+			}
+		}
+		"SymbolSharp20"
+		{
+			"1"
+			{
+				"name"		"Symbol"
+				"tall"		"20"
+				"additive"	"0"
+				"antialias" "0"
+			}
+		}
+		"SymbolSharp22"
+		{
+			"1"
+			{
+				"name"		"Symbol"
+				"tall"		"22"
+				"additive"	"0"
+				"antialias" "0"
+			}
+		}
 		"SymbolSharp24"
 		{
 			"1"
@@ -2819,6 +3178,145 @@ Scheme
 				"tall"		"24"
 				"additive"	"0"
 				"antialias" "0"
+			}
+		}
+		"SymbolSharp26"
+		{
+			"1"
+			{
+				"name"		"Symbol"
+				"tall"		"26"
+				"additive"	"0"
+				"antialias" "0"
+			}
+		}
+		"SymbolSharp28"
+		{
+			"1"
+			{
+				"name"		"Symbol"
+				"tall"		"28"
+				"additive"	"0"
+				"antialias" "0"
+			}
+		}
+		"SymbolSharp30"
+		{
+			"1"
+			{
+				"name"		"Symbol"
+				"tall"		"30"
+				"additive"	"0"
+				"antialias" "0"
+			}
+		}
+		"SymbolSharp32"
+		{
+			"1"
+			{
+				"name"		"Symbol"
+				"tall"		"32"
+				"additive"	"0"
+				"antialias" "0"
+			}
+		}
+		"SymbolSharp16Outline"
+		{
+			"1"
+			{
+				"name"		"Symbol"
+				"tall"		"16"
+				"additive"	"0"
+				"antialias" "0"
+				"outline"	"1"
+			}
+		}
+		"SymbolSharp18Outline"
+		{
+			"1"
+			{
+				"name"		"Symbol"
+				"tall"		"18"
+				"additive"	"0"
+				"antialias" "0"
+				"outline"	"1"
+			}
+		}
+		"SymbolSharp20Outline"
+		{
+			"1"
+			{
+				"name"		"Symbol"
+				"tall"		"20"
+				"additive"	"0"
+				"antialias" "0"
+				"outline"	"1"
+			}
+		}
+		"SymbolSharp22Outline"
+		{
+			"1"
+			{
+				"name"		"Symbol"
+				"tall"		"22"
+				"additive"	"0"
+				"antialias" "0"
+				"outline"	"1"
+			}
+		}
+		"SymbolSharp24Outline"
+		{
+			"1"
+			{
+				"name"		"Symbol"
+				"tall"		"24"
+				"additive"	"0"
+				"antialias" "0"
+				"outline"	"1"
+			}
+		}
+		"SymbolSharp26Outline"
+		{
+			"1"
+			{
+				"name"		"Symbol"
+				"tall"		"26"
+				"additive"	"0"
+				"antialias" "0"
+				"outline"	"1"
+			}
+		}
+		"SymbolSharp28Outline"
+		{
+			"1"
+			{
+				"name"		"Symbol"
+				"tall"		"28"
+				"additive"	"0"
+				"antialias" "0"
+				"outline"	"1"
+			}
+		}
+		"SymbolSharp30Outline"
+		{
+			"1"
+			{
+				"name"		"Symbol"
+				"tall"		"30"
+				"additive"	"0"
+				"antialias" "0"
+				"outline"	"1"
+			}
+		}
+		"SymbolSharp32Outline"
+		{
+			"1"
+			{
+				"name"		"Symbol"
+				"tall"		"32"
+				"additive"	"0"
+				"antialias" "0"
+				"outline"	"1"
 			}
 		}
 		"BlocksSharp64"
