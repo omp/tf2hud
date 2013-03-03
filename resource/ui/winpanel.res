@@ -217,7 +217,7 @@
 		"ypos"			"30"
 		"zpos"			"-1"
 		"wide"			"240"
-		"tall"			"102"
+		"tall"			"103" // omp -- +1 fill gap.
 		"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"1"
