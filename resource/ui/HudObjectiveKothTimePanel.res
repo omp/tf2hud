@@ -11,6 +11,14 @@
 		"tall"				"32"
 		"visible"			"1"
 		"enabled"			"1"
+		"delta_item_x"			"102"
+		"delta_item_start_y"	"2"
+		"delta_item_end_y"		"2"
+		"PositiveColor"			"125 225 30 255"
+		"NegativeColor"			"225 30 30 255"
+		"delta_lifetime"		"1.5"
+		"delta_item_font"		"Futura16"
+
 		
 		"TimePanelValue"
 		{
@@ -41,6 +49,13 @@
 		"tall"				"32"
 		"visible"			"1"
 		"enabled"			"1"
+		"delta_item_x"			"102"
+		"delta_item_start_y"	"2"
+		"delta_item_end_y"		"2"
+		"PositiveColor"			"125 225 30 255"
+		"NegativeColor"			"225 30 30 255"
+		"delta_lifetime"		"1.5"
+		"delta_item_font"		"Futura16"
 		
 		"TimePanelValue"
 		{
