@@ -352,7 +352,7 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"BuyBackLabel"
 		"xpos"			"c-300"
-		"ypos"			"20"
+		"ypos"			"87"
 		"wide"			"600"
 		"tall"			"14"
 		"autoResize"	"0"
