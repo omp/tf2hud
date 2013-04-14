@@ -39,6 +39,9 @@
 		"ypos_minmode"	"34"
 		"wide_minmode"	"24"
 		"tall_minmode"	"24"
+
+		// omp -- reset alpha because of fix in non-cross version.
+		"alpha"			"255"
 	}		
 	"PlayerStatusHealthImageBG"
 	{
