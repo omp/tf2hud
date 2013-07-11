@@ -100,7 +100,7 @@
 		"xpos"			"9999"
 		"ypos"			"9999"
 		"zpos"			"5"
-		"wide"			"12"
+		"wide"			"16"
 		"tall"			"12"
 		"visible"		"0"
 		"enabled"		"1"

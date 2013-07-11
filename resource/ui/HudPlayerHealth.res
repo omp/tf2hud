@@ -342,4 +342,67 @@
 		"wide_minmode"	"24"
 		"tall_minmode"	"24"
 	}
+
+	"PlayerStatus_SoldierOffenseBuff"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"PlayerStatus_SoldierOffenseBuff"
+		"xpos"			"50"
+		"ypos"			"90"
+		"zpos"			"7"
+		"wide"			"31"
+		"tall"			"31"
+		"visible"		"1"
+		"enabled"		"1"
+		"scaleImage"	"1"	
+		"image"			"../HUD/defense_buff_bullet_blue"
+		"fgcolor"		"TanDark"
+		
+		"xpos_minmode"	"34"
+		"ypos_minmode"	"60"
+		"wide_minmode"	"23"
+		"tall_minmode"	"23"
+	}
+
+	"PlayerStatus_SoldierDefenseBuff"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"PlayerStatus_SoldierDefenseBuff"
+		"xpos"			"50"
+		"ypos"			"90"
+		"zpos"			"7"
+		"wide"			"31"
+		"tall"			"31"
+		"visible"		"1"
+		"enabled"		"1"
+		"scaleImage"	"1"	
+		"image"			"../HUD/defense_buff_bullet_blue"
+		"fgcolor"		"TanDark"
+		
+		"xpos_minmode"	"34"
+		"ypos_minmode"	"60"
+		"wide_minmode"	"23"
+		"tall_minmode"	"23"
+	}
+
+	"PlayerStatus_SoldierHealOnHitBuff"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"PlayerStatus_SoldierHealOnHitBuff"
+		"xpos"			"50"
+		"ypos"			"90"
+		"zpos"			"7"
+		"wide"			"31"
+		"tall"			"31"
+		"visible"		"1"
+		"enabled"		"1"
+		"scaleImage"	"1"	
+		"image"			"../HUD/defense_buff_bullet_blue"
+		"fgcolor"		"TanDark"
+		
+		"xpos_minmode"	"34"
+		"ypos_minmode"	"60"
+		"wide_minmode"	"23"
+		"tall_minmode"	"23"
+	}
 }
