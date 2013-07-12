@@ -460,7 +460,7 @@
 		"visible" "1"
 		"enabled" "1"
 		"xpos"	 "r640"
-		"ypos"	 "10"
+		"ypos"	 "8" // omp -- -2 spacing fix.
 		"wide"	 "630"
 		"tall"	 "470"
 
