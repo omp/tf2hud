@@ -217,7 +217,7 @@
 		"fieldName"				"CDamageAccountPanel"
 		"xpos"					"0"
 		"ypos"					"0"
-		"zpos"					"2"
+		"zpos"					"2" // omp -- place over bonus cross.
 		"wide"					"f0"
 		"tall"					"480"
 		"visible" 				"1"
