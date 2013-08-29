@@ -380,8 +380,9 @@ event HudSpyDisguiseFadeIn
 	//RunEvent HudSpyDisguiseChanged	0
 	//Animate PlayerStatusSpyImage			Alpha		"255"			Linear 0.9 0.1	
 	
-	// omp -- uncomment following line for spy disguise image.
+	// omp -- uncomment following lines for spy disguise image.
 	//Animate PlayerStatusClassImage			Alpha		"255"			Linear 0.0 0.0
+	//Animate classmodelpanel					Position	"10 r154"		Linear 0.0 0.0
 }
 
 event HudSpyDisguiseFadeOut
@@ -389,8 +390,9 @@ event HudSpyDisguiseFadeOut
 	//RunEvent HudSpyDisguiseChanged	0
 	//Animate PlayerStatusSpyImage			Alpha		"0"				Linear 0.9 0.1	
 	
-	// omp -- uncomment following line for spy disguise image.
+	// omp -- uncomment following lines for spy disguise image.
 	//Animate PlayerStatusClassImage			Alpha		"0"				Linear 0.0 0.0
+	//Animate classmodelpanel					Position	"9999 9999"		Linear 0.0 0.0
 }
 
 //===========================================
