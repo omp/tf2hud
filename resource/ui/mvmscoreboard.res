@@ -75,7 +75,7 @@
 		"xpos"			"9999"
 		"ypos"			"9999"
 		"zpos"			"-1"
-		"wide"			"400"
+		"wide"			"450"
 		"tall"			"150"
 		"visible"		"1"
 		"enabled"		"1"
@@ -200,19 +200,19 @@
 			"wide"			"200"
 			"visible"		"1"
 		}
-		
+
 		"RespecStatusLabel"
 		{
-    		"ControlName"   "CExLabel"
-    		"fieldName"     "RespecStatusLabel"
-    		"font"          "HudFontSmall"
-    		"labelText"     "%respecstatus%"
-    		"textAlignment" "north-west"
-    		"xpos"          "180"
-    		"ypos"          "8"
-    		"wide"          "220"
-    		"tall"          "40"
-    		"fgcolor"       "tanlight"
+			"ControlName"	"CExLabel"
+			"fieldName"		"RespecStatusLabel"
+			"font"			"HudFontSmall"
+			"labelText"		"%respecstatus%"
+			"textAlignment" "north-west"
+			"xpos"			"180"
+			"ypos"			"8"
+			"wide"			"220"
+			"tall"			"40"
+			"fgcolor"		"tanlight"
 		}
 	}
 }
