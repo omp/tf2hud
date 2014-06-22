@@ -118,6 +118,8 @@
 		"render_texture"	"0"
 		"fov"			"12"
 		"allow_rot"		"1"
+
+		"disable_speak_event"	"1"
 				
 		"model"
 		{

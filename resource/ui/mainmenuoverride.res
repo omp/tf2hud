@@ -354,8 +354,8 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"MOTD_ShowButtonPanel"
-		"xpos"			"c200"
-		"ypos"			"40"
+		"xpos"			"c268"
+		"ypos"			"28"
 		"zpos"			"1"
 		"wide"			"32"
 		"tall"			"32"
@@ -686,7 +686,7 @@
 			"tall"			"20"
 			"autoResize"	"0"
 			"pinCorner"		"3"
-			"visible"		"1"
+			"visible"		"0"
 			"enabled"		"1"
 			"tabPosition"	"0"
 			"labelText"		""
@@ -730,7 +730,7 @@
 			"tall"			"20"
 			"autoResize"	"0"
 			"pinCorner"		"3"
-			"visible"		"1"
+			"visible"		"0"
 			"enabled"		"1"
 			"tabPosition"	"0"
 			"labelText"		""
@@ -768,9 +768,9 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"Notifications_ShowButtonPanel"
-		"xpos"			"c165"
-		"ypos"			"40"
-		"zpos"			"1"
+		"xpos"			"c228"
+		"ypos"			"28"
+		"zpos"			"10"
 		"wide"			"32"
 		"tall"			"32"
 		"autoResize"	"0"
@@ -865,7 +865,7 @@
 		"fieldName"		"Notifications_Panel"
 		"xpos"			"c0"
 		"ypos"			"102"
-		"zpos"			"1"
+		"zpos"			"10"
 		"wide"			"210"
 		"tall"			"80"
 		"visible"		"0"
@@ -970,17 +970,19 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"HTMLContainer"
-		"xpos"			"c"
-		"ypos"			"130"
+		"xpos"			"c0"
+		"ypos"			"92"
+		"zpos"			"1"
 		"wide"			"300"
-		"tall"			"240"
+		"tall"			"300"
 		"autoResize"	"3"
 		"pinCorner"		"0"
 		"visible"		"0"
 		"enabled"		"1"
 		"tabPosition"	"0"
 		"border"		"MainMenuBGBorder"
-
+		"PaintBackgroundType"	"2"
+		
 		"HTMLLabel"
 		{
 			"ControlName"	"CExLabel"
@@ -994,7 +996,7 @@
 			"tall"			"15"
 			"autoResize"	"0"
 			"pinCorner"		"0"
-			"visible"		"1"
+			"visible"		"0"
 			"enabled"		"1"
 		}
 
@@ -1003,9 +1005,10 @@
 			"ControlName"	"HTML"
 			"fieldName"		"HTML"
 			"xpos"			"5"
-			"ypos"			"25"
+			"ypos"			"5"
+			"zpos"			"1"
 			"wide"			"290"
-			"tall"			"210"
+			"tall"			"290"
 			"autoResize"	"3"
 			"pinCorner"		"0"
 			"visible"		"1"
@@ -3444,5 +3447,6 @@
 			}				
 		}		
 	}
+
 
 }

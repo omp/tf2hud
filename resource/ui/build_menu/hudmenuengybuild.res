@@ -15,6 +15,18 @@
 		"icon"			"hud_menu_bg"
 		"iconColor"		"255 255 255 255"
 	}
+
+	"Divider"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"Divider"
+		"xpos"			"9999"
+		"ypos"			"9999"
+		"zpos"			"1"
+		"wide"			"436"
+		"tall"			"2"
+		"fillcolor"		"255 222 208 255"
+	}
 	
 	"MainBG"
 	{

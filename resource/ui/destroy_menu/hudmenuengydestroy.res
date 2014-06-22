@@ -15,6 +15,18 @@
 		"icon"			"hud_menu_bg"
 		"iconColor"		"255 255 255 255"
 	}
+
+	"Divider"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"Divider"
+		"xpos"			"9999"
+		"ypos"			"9999"
+		"zpos"			"0"
+		"wide"			"436"
+		"tall"			"2"
+		"fillcolor"		"255 222 208 255"
+	}
 	
 	"MainBG"
 	{
@@ -54,7 +66,7 @@
 		"fieldName"		"DestroyIcon"
 		"xpos"			"9999"
 		"ypos"			"9999"
-		"zpos"			"0"
+		"zpos"			"1"
 		"wide"			"64"
 		"tall"			"64"
 		"visible"		"1"
@@ -72,7 +84,7 @@
 		"fgcolor"		"OmpShadow"
 		"xpos"			"9999"
 		"ypos"			"9999"
-		"zpos"			"1"
+		"zpos"			"2"
 		"wide"			"269"
 		"tall"			"23"
 		"autoResize"	"0"
@@ -93,7 +105,7 @@
 		"fgcolor"		"OmpText"
 		"xpos"			"4"
 		"ypos"			"0"
-		"zpos"			"2"
+		"zpos"			"3"
 		"wide"			"252"
 		"tall"			"14"
 		"autoResize"	"0"
