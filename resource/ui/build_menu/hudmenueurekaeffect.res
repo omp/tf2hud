@@ -45,7 +45,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fillcolor"		"100 175 30 125"
+		"fillcolor"		"100 30 125 125"
 	}
 	
 	"BuildIcon"	
