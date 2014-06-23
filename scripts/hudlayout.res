@@ -980,10 +980,11 @@
 		"fieldName" 	"HudEurekaEffectTeleportMenu"
 		"visible" 		"1"
 		"enabled" 		"1"
-		"xpos"			"c-125"
-		"ypos"			"c-55"
-		"wide"			"250"
-		"tall"			"195"
+		"xpos"			"c-66"
+		"ypos"			"c88"
+		"zpos"			"1"
+		"wide"			"132"
+		"tall"			"108"
 		"PaintBackgroundType"	"0"
 	}
 	
