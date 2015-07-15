@@ -6,23 +6,23 @@
 		"fieldName"		"itempanel"
 		"xpos"			"0"
 		"ypos"			"0"
-		"zpos"			"1"
-		"wide"			"200"
-		"tall"			"1000"
+		"zpos"			"10"
+		"wide"			"190"
+		"tall"			"100"
 		"visible"		"0"
 		"bgcolor_override"		"255 255 255 0"
 		"PaintBackgroundType"	"0"
 		"paintborder"	"0"
 		
-		"model_xpos"		"5"
-		"model_ypos"		"20"
-		"model_center_y"	"1"
-		"model_wide"		"54"
-		"model_tall"		"33"
+		"model_ypos"		"10"
+
+		"model_center_x"	"1"
+		"model_wide"		"90"
+		"model_tall"		"60"
 		
-		"text_xpos"		"64"
-		"text_ypos"		"20"
-		"text_wide"		"131"
+		"text_xpos"		"10"
+		"text_ypos"		"10"
+		"text_wide"		"170"
 		"text_center"	"1"
 		
 		"max_text_height"	"90"
@@ -37,8 +37,10 @@
 			"xpos"			"0"
 			"ypos"			"0"
 			"zpos"			"-1"
-			"wide"			"200"
-			"tall"			"1000"
+			"wide"			"f0" // fill whole panel
+			"tall"			"f0" // fill whole panel
+
+
 			"autoResize"	"0"
 			"pinCorner"		"0"
 			"visible"		"1"
@@ -49,27 +51,27 @@
 		"itemmodelpanel"
 		{
 			"fieldName"		"itemmodelpanel"
-			"use_item_rendertarget" "1"
+			"use_item_rendertarget" "0"
 			"useparentbg"		"1"
 		}
 		
 		"ItemLabel"
 		{	
-			"ControlName"	"CExLabel"
+			"ControlName"	"Label"
 			"fieldName"		"ItemLabel"
 			"font"			"Futura9"
 			"fgcolor"		"OmpText"
-			"xpos"			"5"
-			"ypos"			"5"
+			"xpos"			"10"
+			"ypos"			"3"
 			"zpos"			"1"
-			"wide"			"180"
-			"tall"			"10"
+			"wide"			"270"
+			"tall"			"9"
 			"autoResize"	"0"
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
 			"labelText"		"#FreezePanel_Item"
-			"textAlignment"	"north-west"
+			"textAlignment"	"Left"
 			"dulltext"		"0"
 			"brighttext"	"0"
 		}
