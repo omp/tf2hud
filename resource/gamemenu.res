@@ -9,35 +9,36 @@
 	}
 	"QuickplayButton"
 	{
-		"label" "Multiplayer" 
+		"label" "Multiplayer"
 		"command" "quickplay"
 		"subimage" "glyph_multiplayer"
 		"OnlyAtMenu" "1"
 	}
 	"QuickplayChangeButton"
 	{
-		"label" "#MMenu_NewGame" 
+		"label" "#MMenu_NewGame"
 		"command" "quickplay"
 		"subimage" "glyph_server"
 		"OnlyInGame" "1"
 	}
 	"PlayPVEButton"
 	{
-		"label" "Cooperative" 
+		"label" "Cooperative"
 		"command" "playpve"
 		"subimage" "glyph_coop"
 		"OnlyAtMenu" "1"
 	}
+
 	"ServerBrowserButton"
 	{
-		"label" "Servers" 
+		"label" "Servers"
 		"command" "OpenServerBrowser"
 		"subimage" "glyph_server_browser"
 		"OnlyAtMenu" "1"
-	} 
+	}
 	"ChangeServerButton"
 	{
-		"label" "#MMenu_ChangeServer" 
+		"label" "#MMenu_ChangeServer"
 		"command" "OpenServerBrowser"
 		"subimage" "glyph_server_browser"
 		"OnlyInGame" "1"
@@ -63,13 +64,13 @@
 	}
 	"TrainingButton"
 	{
-		"label" "Training"
-		"command" "offlinepractice"
+		"label" "Matchmaking"
+		"command" "ladder_ui_show"
 		"subimage" "glyph_practice"
 		"OnlyAtMenu" "1"
 	}
-	
-	// These buttons get positioned by the MainMenuOverride.res	
+
+	// These buttons get positioned by the MainMenuOverride.res
 	"CreateServerButton"
 	{
 		"label" "Create"
@@ -81,7 +82,7 @@
 		"label" "Store"
 		"command" "engine open_store"
 		"subimage" "glyph_store"
-	}	
+	}
 	"CharacterSetupButton"
 	{
 		"label" "Items"
