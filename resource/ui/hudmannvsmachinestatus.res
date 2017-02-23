@@ -13,18 +13,6 @@
 		"enabled"			"1"
 	}
 	
-	"WaveCompleteSummaryPanel"
-	{
-		"ControlName"		"CWaveCompleteSummaryPanel"
-		"fieldName"			"WaveCompleteSummaryPanel"
-		"xpos"				"c-125"
-		"ypos"				"120"
-		"zpos"				"0"
-		"wide"				"400"
-		"tall"				"400"
-		"visible"			"1"
-		"enabled"			"1"
-	}
 	
 	"BossStatusPanel"
 	{
